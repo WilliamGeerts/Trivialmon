@@ -1,0 +1,31 @@
+/* CSS CONNEXION */
+#Login {
+	-fx-background-size: stretch;
+	-fx-background-position: center center;
+	-fx-background-image: url("/ressources/images/backgrounds/rules.jpg");
+}
+
+/* Label */
+.label {
+	-fx-font-size: 1.5em;
+}
+/* Boutons */
+.button {
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%, #92CD41, #70a12d);
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+    -fx-padding: 8 8 7 8;
+    -fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-pref-width: 30px;
+	-fx-max-width: infinity;
+	-fx-max-height: infinity;
+	-fx-border-color: white;
+	-fx-border-width: 0.4em;
+    -fx-border-insets: 0;
+    -fx-min-width: 0;
+    -fx-min-height: 0;
+}
+.button:hover {
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #c54e2c);
+}

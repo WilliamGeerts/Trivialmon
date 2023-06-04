@@ -1,0 +1,57 @@
+/* CSS PLATEAU */
+#Board {
+	-fx-background-size: stretch;
+	-fx-background-position: center center;
+	-fx-background-image: url("/ressources/images/backgrounds/MainCarte.png");
+}
+
+/* Affichage Joueurs */
+#P1 {-fx-background-color: rgb(142, 198, 250);}
+#P2 {-fx-background-color: rgb(147, 201, 129);}
+#P3 {-fx-background-color: rgb(232, 170, 116);}
+#P4 {-fx-background-color: rgb(204, 98, 188);}
+
+/* HBox pour le tour */
+#hbTurn {-fx-background-color: rgb(191, 191, 191);}
+
+/* HBox pour les cadres des joueurs */
+HBox {-fx-border-color: white; -fx-min-width: 0;}
+
+/* HBox pour les pseudos des joueurs */
+HBox > .label {
+	-fx-text-fill: white;
+}
+
+#Badge {
+	-fx-background-color: rgb(79, 79, 79, 0.75);
+}
+
+/* Textes */
+#playerTurn {
+	-fx-font-size: 15px;	
+}
+
+.label {
+	-fx-font-size: 20px;
+}
+
+/* Boutons */
+.button {
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%, #92CD41, #70a12d);
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+    -fx-padding: 2;
+    -fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-pref-width: 30px;
+	-fx-max-width: infinity;
+	-fx-max-height: infinity;
+	-fx-border-color: white;
+	-fx-border-width: 0.4em;
+    -fx-border-insets: 0;
+    -fx-min-width: 0;
+    -fx-min-height: 0;
+}
+.button:hover {
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #c54e2c);
+}

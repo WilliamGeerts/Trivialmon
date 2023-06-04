@@ -1,0 +1,4780 @@
+{
+  "questions": [
+    {
+      "author": "Geoffrey",
+      "category": "CYBERSECURITY",
+      "statement": "What does 2FA stand for ?",
+      "answer": "Two-Factor Authentification"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ECONOMICS",
+      "statement": "Which expression is related to the October 29 Stock Market Crash ?",
+      "answer": "Black Tuesday"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ENVIRONMENT",
+      "statement": "What is the degradation process called that makes farming impossible because the soil becomes increasingly arid?",
+      "answer": "Desertification"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "MINDFULNESS",
+      "statement": "What does the mind naturally focus on ?",
+      "answer": "Problems"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SCHOOL",
+      "statement": "When did the Middle Age end ?",
+      "answer": "In 1492"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SOCIETY",
+      "statement": "Which country first legalized gay marriage ?",
+      "answer": "The Netherlands"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "CYBERSECURITY",
+      "statement": "What is the attack consisting in submitting every possible passwords ?",
+      "answer": "Brute force"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ECONOMICS",
+      "statement": "What are digital currencies named ?",
+      "answer": "Cryptocurrency"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ENVIRONMENT",
+      "statement": "What is the phenomenon that prevents the heat from the Sun from leaving our atmosphere?",
+      "answer": "Greenhouse effect"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "MINDFULNESS",
+      "statement": "What is the stress hormone called ?",
+      "answer": "Cortisol"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SCHOOL",
+      "statement": "How is named the process of Earth moving around the Sun ?",
+      "answer": "Revolution"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SOCIETY",
+      "statement": "Which film based on a biography shows what happened during the « Rwandan genocide » ?",
+      "answer": "Hotel Rwanda"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "CYBERSECURITY",
+      "statement": "How is named the process of sending a fake SMS pretending to be a real compagny while trying to scam the receiver ?",
+      "answer": "Smishing"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ECONOMICS",
+      "statement": "What year were the first Euro coin and paper money publicly distributed ?",
+      "answer": "2003"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ENVIRONMENT",
+      "statement": "Which animal can be seen on the WWF logo ?",
+      "answer": "Panda"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "MINDFULNESS",
+      "statement": "What do you focus on first when practicing mindfulness ?",
+      "answer": "Your body"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SCHOOL",
+      "statement": "How are called the days when the night has the same duration than the day ?",
+      "answer": "Equinox"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SOCIETY",
+      "statement": "Which pandemic began in 2020 and caused a global health crisis ?",
+      "answer": "Covid-19"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "CYBERSECURITY",
+      "statement": "How are called events that allow people to hack a specific site or application ?",
+      "answer": "Bug bounty"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ECONOMICS",
+      "statement": "Which economic sector involves extracting resources from the ground?",
+      "answer": "Primary Sector"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "ENVIRONMENT",
+      "statement": "How is named the development that meet our present needs while ensuring that future generations can meet their own needs?",
+      "answer": "Sustainable development"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "MINDFULNESS",
+      "statement": "What physical and mental reaction, commonly experienced at work, can be addressed with the practice of mindfulness?",
+      "answer": "Stress"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SCHOOL",
+      "statement": "Who conquered lands from Greece up to current Pakistan in the 4th century BC ?",
+      "answer": "Alexander the Great"
+    },
+    {
+      "author": "Geoffrey",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe the movement of a large number of people leaving their country of origin ?",
+      "answer": "Emigration"
+    },
+    {
+      "author": "Remy",
+      "category": "CYBERSECURITY",
+      "statement": "How many characters must a password have to be secure?",
+      "answer": "12"
+    },
+    {
+      "author": "Remy",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the attack that uses emails?",
+      "answer": "phishing"
+    },
+    {
+      "author": "Remy",
+      "category": "CYBERSECURITY",
+      "statement": "What is it called when someone enters a computer system without permission?",
+      "answer": "hacking"
+    },
+    {
+      "author": "Remy",
+      "category": "CYBERSECURITY",
+      "statement": "What is the European regulation on personal data called ?",
+      "answer": "GDPR"
+    },
+    {
+      "author": "Remy",
+      "category": "ECONOMICS",
+      "statement": "What is the currency of the United States?",
+      "answer": "Dollars"
+    },
+    {
+      "author": "Remy",
+      "category": "ECONOMICS",
+      "statement": "When did Europe definitively switch to the euro?",
+      "answer": "2002"
+    },
+    {
+      "author": "Remy",
+      "category": "ECONOMICS",
+      "statement": "What does GDP stand for?",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "author": "Remy",
+      "category": "ECONOMICS",
+      "statement": "Who wrote \"Le Capital\" in 1850? ",
+      "answer": "Karl Marx"
+    },
+    {
+      "author": "Remy",
+      "category": "ENVIRONMENT",
+      "statement": "How quickly does a plastic bag decompose?",
+      "answer": "100"
+    },
+    {
+      "author": "Remy",
+      "category": "ENVIRONMENT",
+      "statement": "What is symbiosis?",
+      "answer": "beneficial association"
+    },
+    {
+      "author": "Remy",
+      "category": "ENVIRONMENT",
+      "statement": "What is the largest forest in the world?",
+      "answer": "Amazon"
+    },
+    {
+      "author": "Remy",
+      "category": "ENVIRONMENT",
+      "statement": "Which country in the world pollutes the most?",
+      "answer": "China"
+    },
+    {
+      "author": "Remy",
+      "category": "MINDFULNESS",
+      "statement": "Who is credited with inventing the practice of stress reduction through mindfulness?",
+      "answer": "Jon Kabat-Zinn"
+    },
+    {
+      "author": "Remy",
+      "category": "MINDFULNESS",
+      "statement": "From which religion did mindfulness originate?",
+      "answer": " Buddhism"
+    },
+    {
+      "author": "Remy",
+      "category": "MINDFULNESS",
+      "statement": "How many minutes of mindfulness practice are necessary to be beneficial?",
+      "answer": " 15 "
+    },
+    {
+      "author": "Remy",
+      "category": "MINDFULNESS",
+      "statement": "True or false: Does mindfulness increase grey matter?",
+      "answer": "True"
+    },
+    {
+      "author": "Remy",
+      "category": "SCHOOL",
+      "statement": "Who is the Sun King? ",
+      "answer": "Louis XIV"
+    },
+    {
+      "author": "Remy",
+      "category": "SCHOOL",
+      "statement": "Who was the first person to walk on the moon?",
+      "answer": " Neil Armstrong"
+    },
+    {
+      "author": "Remy",
+      "category": "SCHOOL",
+      "statement": "Who wrote \"The Imaginary Invalid\"?",
+      "answer": "Moliere"
+    },
+    {
+      "author": "Remy",
+      "category": "SCHOOL",
+      "statement": "What is the capital of the United States?",
+      "answer": "Washington"
+    },
+    {
+      "author": "Remy",
+      "category": "SOCIETY",
+      "statement": "Who said \"I have a dream\"? ",
+      "answer": "Martin Luther King"
+    },
+    {
+      "author": "Remy",
+      "category": "SOCIETY",
+      "statement": "Nelson Mandela was the president of which country?  ",
+      "answer": "Republic of South Africa"
+    },
+    {
+      "author": "Remy",
+      "category": "SOCIETY",
+      "statement": "What is the name of the study of society?",
+      "answer": "Sociology"
+    },
+    {
+      "author": "Remy",
+      "category": "SOCIETY",
+      "statement": "What was the regime of the Soviet Union?",
+      "answer": "Communist"
+    },
+    {
+      "author": "Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of a type of malware that can lock your computer and demand a ransom to unlock it?",
+      "answer": "Ransomware"
+    },
+    {
+      "author": "Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": " this attack is a type of cyber attack that overwhelms a website or online service with traffic from multiple sources, making it unavailable to users. What is its name ?",
+      "answer": "DDOS"
+    },
+    {
+      "author": "Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of an authentication method that requires the use of two factors to access an account, such as a password and a code sent via SMS?",
+      "answer": "two-factor authentification"
+    },
+    {
+      "author": "Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "it is a security mechanism that requires users to provide two or more pieces of evidence to verify their identity. This can include something the user knows (like a password) and something they have (like a security token). What is it ?",
+      "answer": "Multi-factor authentication"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SCHOOL",
+      "statement": "Who established compulsory and free school education for all children in Europe?",
+      "answer": "Jules Ferry"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SCHOOL",
+      "statement": "In Japan, back to school is not in September but in...",
+      "answer": "April"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SCHOOL",
+      "statement": "Who discovered America ?",
+      "answer": "Christopher Colombus"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SCHOOL",
+      "statement": "what year did the french revolution start ?",
+      "answer": "1789"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is the economic term that explains why people are charging so much for medical gloves, masks and hand sanitizer during the Coronavirus Outbreak?",
+      "answer": "supply and demand"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is the currency of the United states?",
+      "answer": "United States Dollar"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is it called when you borrow money that you have to pay back at a later date with interest?",
+      "answer": "loan"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ECONOMICS",
+      "statement": "what is the type of interest that banks pay customers on their savings accounts",
+      "answer": "interest"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the term for a system of government in which power is held by a small group of people?",
+      "answer": "oligarchy"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the name of the system that allows individuals to vote for their representatives in government?",
+      "answer": "democracy"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the word for a government ruled by a single individual, typically a monarch or dictator?",
+      "answer": "autocracy"
+    },
+    {
+      "author": "Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a group of people who share a common language, culture, and/or ethnicity?",
+      "answer": "community"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "Which Jungle is called “the lungs of the earth” ? ",
+      "answer": "Amazonia"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What name is given to the middle of a hurricane?",
+      "answer": "eye"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "The sun creates which vitamin?",
+      "answer": "D"
+    },
+    {
+      "author": "Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the peak on Earth",
+      "answer": "Everest"
+    },
+    {
+      "author": "Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "how many thoughts do we have a day?",
+      "answer": "60000"
+    },
+    {
+      "author": "Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "Which organ generates stress hormones?",
+      "answer": "brain"
+    },
+    {
+      "author": "Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "in which public establishments was mindfulness first introduced?",
+      "answer": "hospital"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ECONOMICS",
+      "statement": "Witch country has the largest economy in the world",
+      "answer": "United States"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ECONOMICS",
+      "statement": "What money is the most commonly used currency in international trad",
+      "answer": "US Dollar"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ENVIRONMENT",
+      "statement": "What is the most effective way to reduce waste",
+      "answer": "Recycling"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ENVIRONMENT",
+      "statement": "What kind of transportation is the most harmful to the environment",
+      "answer": "Car"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "MINDFULNESS",
+      "statement": "When was Mindfulness created",
+      "answer": "1979"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "MINDFULNESS",
+      "statement": "Who is the father of Mindfulness",
+      "answer": "John Kabat-Zinn"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SCHOOL",
+      "statement": "Which atom has the symbol W",
+      "answer": "Tungsten"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SCHOOL",
+      "statement": "Give the correct equation for the Pythagorean theorem",
+      "answer": "a² \u003d b² + c²"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SCHOOL",
+      "statement": "What is the capital of Brazil?",
+      "answer": "Brasilia"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SCHOOL",
+      "statement": "How many stars does the American flag have?",
+      "answer": "50"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SOCIETY",
+      "statement": "Wath is the most populated country in the world ? (2023)",
+      "answer": "India"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SOCIETY",
+      "statement": "Which country has the highest level of education",
+      "answer": "Finland"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SOCIETY",
+      "statement": "Which form of media is the most popular in modern society",
+      "answer": "Internet"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "SOCIETY",
+      "statement": "What is the most common cause of death in developed countries",
+      "answer": "Heart disease"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ECONOMICS",
+      "statement": "How much money did the videogame industry generate in 2022 ?",
+      "answer": "184.4 billion"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ECONOMICS",
+      "statement": "How is the Mexican currency called ?",
+      "answer": "Peso"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ECONOMICS",
+      "statement": "What do the initials \"GDP\" mean ?",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ECONOMICS",
+      "statement": "Who is considered the first economist by the historians ?",
+      "answer": "Hesiod"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "CYBERSECURITY",
+      "statement": "Who wrote \"Why Information Security Is Hard\" ?",
+      "answer": "Ross Anderson"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "CYBERSECURITY",
+      "statement": "What does \"IDS\" stand for ?",
+      "answer": "Intrusion Detection System"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "CYBERSECURITY",
+      "statement": "How is the act of masquerading as a valid entity through the falsification of data called ?",
+      "answer": "Spoofing"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "CYBERSECURITY",
+      "statement": "How was the program created by Ray Tomlinson in 1972, used to destroy the computer worm Creeper, called ?",
+      "answer": "Reaper"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SCHOOL",
+      "statement": "When was the first primary school in Nigeria built ?",
+      "answer": "1845"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SCHOOL",
+      "statement": "How are religious Hindu schools called ?",
+      "answer": "Gurukula"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SCHOOL",
+      "statement": "What does the Greek word \"schole\" originally mean ?",
+      "answer": "Leisure"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SCHOOL",
+      "statement": "When did universities begin to emerge in Europe (Which century) ?",
+      "answer": "12"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ENVIRONMENT",
+      "statement": "What place in the ranking of the largest deserts is the Sahara Desert ?",
+      "answer": "3rd"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ENVIRONMENT",
+      "statement": "How is the epoch where humans began having a significant impact on Earth\u0027s geology and ecosystems called ?",
+      "answer": "Anthropocene"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the atmosphere layer directly above the stratosphere called ?",
+      "answer": "Mesosphere"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "ENVIRONMENT",
+      "statement": "What is palynology (Study of...) ?",
+      "answer": "Dust"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SOCIETY",
+      "statement": "What rule do all societies around the globe have ?",
+      "answer": "Incest taboo"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SOCIETY",
+      "statement": "In an autocracy, how many people have the absolute power over a state ?",
+      "answer": "1"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SOCIETY",
+      "statement": "How many people are estimated to have died because or war during th 20th century (In millions) ?",
+      "answer": "170"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "SOCIETY",
+      "statement": "How many member states does the United Nations contain ?",
+      "answer": "193"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "MINDFULNESS",
+      "statement": "Since when did mindfulness gain increasing empirical attention ?",
+      "answer": "1970"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "MINDFULNESS",
+      "statement": "What does the Hindu word \"Sati\" mean ?",
+      "answer": "Memory"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "MINDFULNESS",
+      "statement": "What was the profession of Herbert Benson, one of the individuals who popularized mindfulness in our regions ?",
+      "answer": "Cardiologist"
+    },
+    {
+      "author": "Mahaux Mathis",
+      "category": "MINDFULNESS",
+      "statement": "Mindfulness can reduce stress, anxiety and deprssion, but what else ?",
+      "answer": "Drug addiction"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "In what year was the CHWAPI hacked?",
+      "answer": "2021"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "Can a malware cause damage to computers (yes or no)? ",
+      "answer": "yes"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What does the letter CEO stand for ?",
+      "answer": " Chief Executive Officer"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "Is recycling bad for the nature (yes or no)? ",
+      "answer": "YES"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SCHOOL",
+      "statement": "In which year did the merger of the 3 schools form the helha? ",
+      "answer": "2009"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SCHOOL",
+      "statement": "When was school made compulsory in Belgium? ",
+      "answer": "1914"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "MINDFULNESS",
+      "statement": "What is the definition of mindfulness",
+      "answer": "Paying attention to the present moment"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "CYBERSECURITY",
+      "statement": "What is the purpose of a force brute attack ?",
+      "answer": " Guess a password"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "CYBERSECURITY",
+      "statement": "What type of cyberattack is most common? ",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "CYBERSECURITY",
+      "statement": "What does VPN stand for ?",
+      "answer": "Virtual Private Network"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "CYBERSECURITY",
+      "statement": " What does DDoS stand for ? ",
+      "answer": " Distributed Denial of Service\u2029"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ECONOMICS",
+      "statement": "What is the currency used in Japan?",
+      "answer": "Yen"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ECONOMICS",
+      "statement": "What is the primary economic system in China? ",
+      "answer": "Socialism"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ENVIRONMENT",
+      "statement": "Is natural gas a type of renewable energy (yes/no)?",
+      "answer": "No"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the loss of biodiversity caused by human activity?",
+      "answer": "Extinction"
+    },
+    {
+      "author": "Van Quaquebeke Nathan",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of intentionally bringing attention to the experience ofbreathing in a specific way? ",
+      "answer": "Breathwork\u2029"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of a technique that consists of sending false information to deceive cybercriminals? ",
+      "answer": "Decoy"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What is the word for someone who seeks to exploit vulnerabilities in a computer system? ",
+      "answer": "Hacker"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What does the letter GDP stand for ?",
+      "answer": "Gross domestic Product"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is economic growth? ",
+      "answer": "Increased production"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ECONOMICS",
+      "statement": "when was bitcoin was created?",
+      "answer": "2009"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main means of transport emitting greenhouse gases? ",
+      "answer": "Car"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the essential element for plant photosynthesis?",
+      "answer": "Light"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main greenhouse gas?",
+      "answer": "CO2"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "What is the difference between mindfulness and meditation?",
+      "answer": "None"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "Who can benefit from mindfulness? ",
+      "answer": "Everyone "
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "Can mindfulness help you sleep better? ",
+      "answer": "Yes"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "MINDFULNESS",
+      "statement": "Is mindfulness effective in reducing stress? ",
+      "answer": "Yes"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SCHOOL",
+      "statement": "What is the time of year when pupils are on holiday and do not go to school? ",
+      "answer": "Holidays"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SCHOOL",
+      "statement": "What is the room where students can eat lunch at school called? ",
+      "answer": "Cafeteria"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the largest religion in the world? ",
+      "answer": "Christianity"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the most populous continent in the world? ",
+      "answer": "Asia"
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SOCIETY",
+      "statement": "How many countries are members of the European Union?",
+      "answer": "27 "
+    },
+    {
+      "author": "Vandijstadt Nicolas",
+      "category": "SOCIETY",
+      "statement": "Is Belgium a democracy (yes or no)? ",
+      "answer": "Yes"
+    },
+    {
+      "author": "Ali",
+      "category": "CYBERSECURITY",
+      "statement": "When a password is limited strictly to numeric characters, the secret is often referred to as a PIN. What does that acronym stand for? ",
+      "answer": "Personal Identification Number"
+    },
+    {
+      "author": "Ali",
+      "category": "ECONOMICS",
+      "statement": "Who is known as the father of communist economic system ? ",
+      "answer": "Karl Marx"
+    },
+    {
+      "author": "Ali",
+      "category": "ENVIRONMENT",
+      "statement": "A millimetre of mercury is a manometric unit of pressure, defined as precisely 133.322387415 pascals. What is the symbol for a millimetre of mercury?",
+      "answer": "mmHg"
+    },
+    {
+      "author": "Ali",
+      "category": "MINDFULNESS",
+      "statement": "True or false? Mindfulness can improve emotion regulation, leading to a better mood and better ability to handle stress.",
+      "answer": "True"
+    },
+    {
+      "author": "Ali",
+      "category": "SCHOOL",
+      "statement": " There are three types of tundra, Arctic tundra and Antarctic tundra are two, what is the third type? ",
+      "answer": "Alpine tundra"
+    },
+    {
+      "author": "Ali",
+      "category": "SOCIETY",
+      "statement": " Women in Belgium were given the vote in 1920 - however, over what age did they have to be to vote? ",
+      "answer": "21"
+    },
+    {
+      "author": "Ali",
+      "category": "CYBERSECURITY",
+      "statement": "What type of virus is described as malware which disguises itself as a normal program, which shares its name with a notable horse that invaded the ancient city of Troy during a famous 12th century B.C. war?",
+      "answer": "Trojan"
+    },
+    {
+      "author": "Ali",
+      "category": "ECONOMICS",
+      "statement": "What currency is used in cuba ? ",
+      "answer": "Peso Cubain"
+    },
+    {
+      "author": "Ali",
+      "category": "ENVIRONMENT",
+      "statement": "What is the Name of the atmospheric layer that is completely cloudless and free of water vapor ?",
+      "answer": "Thermosphere"
+    },
+    {
+      "author": "Ali",
+      "category": "MINDFULNESS",
+      "statement": "Mindfulness has also been found to boost which important coping mechanism for positive emotional wellness?",
+      "answer": "Resilience"
+    },
+    {
+      "author": "Ali",
+      "category": "SCHOOL",
+      "statement": "In geometry, which theorem states that the square of the hypotenuse of a right triangle is equal to the sum of the squares on the legs? ",
+      "answer": "Pythagoras Theorem"
+    },
+    {
+      "author": "Ali",
+      "category": "SOCIETY",
+      "statement": "How is colled The tendency to see things from the point of view of the observer\u0027s culture rather than from the observed ? ",
+      "answer": "Ethnocentrism"
+    },
+    {
+      "author": "Ali",
+      "category": "CYBERSECURITY",
+      "statement": "Which kind of interface is slow because transmits digital information bit by bit over a wire? ",
+      "answer": "Serial"
+    },
+    {
+      "author": "Ali",
+      "category": "ECONOMICS",
+      "statement": "Where is UBS Switzerland headquarters located ? ",
+      "answer": "Zurich"
+    },
+    {
+      "author": "Ali",
+      "category": "ENVIRONMENT",
+      "statement": "What is actually the highest mountain in the world ? ",
+      "answer": "Everest"
+    },
+    {
+      "author": "Ali",
+      "category": "MINDFULNESS",
+      "statement": "Which mindfulness practices we can use in the moments we feel stress?",
+      "answer": "Breathing"
+    },
+    {
+      "author": "Ali",
+      "category": "SCHOOL",
+      "statement": "Which message is often the first one students write when learning most programming languages? ",
+      "answer": "Hello World"
+    },
+    {
+      "author": "Ali",
+      "category": "SOCIETY",
+      "statement": "Hinduism is the world’s oldest religion, according to many scholars, with roots and customs dating back more than how many years ?",
+      "answer": "4000"
+    },
+    {
+      "author": "Ali",
+      "category": "CYBERSECURITY",
+      "statement": "The below logic is an example of what kind of cyber-attack targets the       vulnerabilities on the Databases? ‘ OR ‘1’\u003d’1′ — ‘ OR ‘1’\u003d’1′ { ‘ OR ‘1’\u003d’1′ /*",
+      "answer": "SQL Injection"
+    },
+    {
+      "author": "Ali",
+      "category": "ECONOMICS",
+      "statement": "Which Belgian city is one of the world’s main centers for diamond dealing ? ",
+      "answer": "Antwerp"
+    },
+    {
+      "author": "Ali",
+      "category": "ENVIRONMENT",
+      "statement": " The phenomenon of light changing direction when it passes through another medium is known as what? ",
+      "answer": "Refraction"
+    },
+    {
+      "author": "Ali",
+      "category": "MINDFULNESS",
+      "statement": "Where can the oldest references to meditation be found?",
+      "answer": "India"
+    },
+    {
+      "author": "Ali",
+      "category": "SCHOOL",
+      "statement": "The original SQL language was created at the IBM research lab in San José in the early 1970s, What does ‘SQL’  stand for?  ",
+      "answer": "Structured Query Language"
+    },
+    {
+      "author": "Ali",
+      "category": "SOCIETY",
+      "statement": " Nobel Peace Prize laureate Ales Bialiatski has long advocated for fundamental human rights, Where was he born ?",
+      "answer": "Belarus"
+    },
+    {
+      "author": "Mattéo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the common way to secure an account? ",
+      "answer": "Password"
+    },
+    {
+      "author": "Mattéo",
+      "category": "CYBERSECURITY",
+      "statement": "How to protect yourself on a public network? ",
+      "answer": "VPN"
+    },
+    {
+      "author": "Mattéo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the technique used to deceive users to obtain confidential information? ",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Mattéo",
+      "category": "CYBERSECURITY",
+      "statement": "What does DDoS stand for? ",
+      "answer": "Destributed Denial of Service"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ECONOMICS",
+      "statement": "What does PIB stand for? ",
+      "answer": "Produit Interieur Brut"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ECONOMICS",
+      "statement": "What do we call the curve that links the different baskets with the same satisfaction rate? ",
+      "answer": "The indifference curve"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the need pyramid? ",
+      "answer": "Maslow\u0027s Hierarchy of Needs"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ECONOMICS",
+      "statement": "Which organization collects the social contributions in Belgium? ",
+      "answer": "ONSS"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ENVIRONMENT",
+      "statement": "I go to the gas pump, I have the choice between SP95, SP98 and Diesel.\nWhich one is the least polluting? ",
+      "answer": "SP95"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ENVIRONMENT",
+      "statement": "What machine is used to create energy from the wind? ",
+      "answer": "Wind turbine"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ENVIRONMENT",
+      "statement": "Which gas is responsible for global warming? ",
+      "answer": "CO2"
+    },
+    {
+      "author": "Mattéo",
+      "category": "ENVIRONMENT",
+      "statement": "Which internation organisation is responsible for protecting the environment? ",
+      "answer": "ONU"
+    },
+    {
+      "author": "Mattéo",
+      "category": "MINDFULNESS",
+      "statement": "What is the object used for concentration in meditation? ",
+      "answer": "Candle"
+    },
+    {
+      "author": "Mattéo",
+      "category": "MINDFULNESS",
+      "statement": "What is mindfulness called? ",
+      "answer": "Present"
+    },
+    {
+      "author": "Mattéo",
+      "category": "MINDFULNESS",
+      "statement": "What is the word that discribes the ability to remain calm and present in difficult situations? ",
+      "answer": "Resilience"
+    },
+    {
+      "author": "Mattéo",
+      "category": "MINDFULNESS",
+      "statement": "What type of meditation involves focusing on a word or phrase? ",
+      "answer": "Mantra"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SCHOOL",
+      "statement": "In Belgium, what is the name of the secondary school leaving certificate? ",
+      "answer": "CESS"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SCHOOL",
+      "statement": "Which triangle is used in the Pythagorean theorem? ",
+      "answer": "Rectangle"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SCHOOL",
+      "statement": "Who is the author of surrealism? ",
+      "answer": "André Breton"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SCHOOL",
+      "statement": "What is the correct name for symbol of the element Na in the periodic table? ",
+      "answer": "Sodium"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SOCIETY",
+      "statement": "What is the firstname of the current pope? ",
+      "answer": "François"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SOCIETY",
+      "statement": "What is the currency used in the UK? ",
+      "answer": "Livre sterling"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SOCIETY",
+      "statement": "Which organization is belgium in? ",
+      "answer": "European Union"
+    },
+    {
+      "author": "Mattéo",
+      "category": "SOCIETY",
+      "statement": "How long a mayor\u0027s term in Belgium? ",
+      "answer": "6 years"
+    },
+    {
+      "author": "Rinel",
+      "category": "CYBERSECURITY",
+      "statement": "What name do we give to all the technologies and practices aimed at protecting networks and data against cyberattacks?",
+      "answer": "Cybersecurity"
+    },
+    {
+      "author": "Rinel",
+      "category": "ECONOMICS",
+      "statement": "Who is the father of economics?",
+      "answer": "Adam Smith"
+    },
+    {
+      "author": "Rinel",
+      "category": "ENVIRONMENT",
+      "statement": "What is the process of removing salt from seawater to make it drinkable called?",
+      "answer": "Desalination"
+    },
+    {
+      "author": "Rinel",
+      "category": "MINDFULNESS",
+      "statement": "Can mindfulness help reduce anxiety?",
+      "answer": "Yes"
+    },
+    {
+      "author": "Rinel",
+      "category": "SCHOOL",
+      "statement": "What is the highest university degree?",
+      "answer": "The Doctorate"
+    },
+    {
+      "author": "Rinel",
+      "category": "SOCIETY",
+      "statement": "What is the most spoken language in the world?",
+      "answer": "English"
+    },
+    {
+      "author": "Rinel",
+      "category": "CYBERSECURITY",
+      "statement": "What do you call the software that protects against computer threats?",
+      "answer": "Anti-virus"
+    },
+    {
+      "author": "Rinel",
+      "category": "ECONOMICS",
+      "statement": "What does the term IMF mean? ",
+      "answer": "International Monetary Fund"
+    },
+    {
+      "author": "Rinel",
+      "category": "ENVIRONMENT",
+      "statement": "What is the process of converting waste into usable materials called?",
+      "answer": "Recycling"
+    },
+    {
+      "author": "Rinel",
+      "category": "MINDFULNESS",
+      "statement": "What is the practice of mindful presence called?",
+      "answer": "Mindfulness"
+    },
+    {
+      "author": "Rinel",
+      "category": "SCHOOL",
+      "statement": "The acquisition of basic knowledge and skills in reading, writing and arithmetic of a population is called? ",
+      "answer": "Literacy"
+    },
+    {
+      "author": "Rinel",
+      "category": "SOCIETY",
+      "statement": "A century is how many years?",
+      "answer": "100"
+    },
+    {
+      "author": "Rinel",
+      "category": "CYBERSECURITY",
+      "statement": "What is the technique used by fraudsters to obtain personal information in order to perpetrate identity theft?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Rinel",
+      "category": "ECONOMICS",
+      "statement": "What is the total value of goods and services produced in an economy?",
+      "answer": "GPD"
+    },
+    {
+      "author": "Rinel",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main cause of environmental pollution?",
+      "answer": "Human Activity"
+    },
+    {
+      "author": "Rinel",
+      "category": "MINDFULNESS",
+      "statement": "How can we integrate mindfulness into everyday life?",
+      "answer": "Breathing Exercise"
+    },
+    {
+      "author": "Rinel",
+      "category": "SCHOOL",
+      "statement": "Give all of the three most used trigonometric functions.",
+      "answer": "sine,cosine,tangent"
+    },
+    {
+      "author": "Rinel",
+      "category": "SOCIETY",
+      "statement": "What year was the Second World War started?",
+      "answer": "1939"
+    },
+    {
+      "author": "Rinel",
+      "category": "CYBERSECURITY",
+      "statement": "When did cyberattacks start?",
+      "answer": "1982"
+    },
+    {
+      "author": "Rinel",
+      "category": "ECONOMICS",
+      "statement": "What is the study of individual economic behavior?",
+      "answer": "Microeconomics"
+    },
+    {
+      "author": "Rinel",
+      "category": "ENVIRONMENT",
+      "statement": "All animal species living in a geographical space or a specific habitat is called ?",
+      "answer": "Wildlife"
+    },
+    {
+      "author": "Rinel",
+      "category": "MINDFULNESS",
+      "statement": "Is that meditation is equivalent to mindfulness? ",
+      "answer": "No"
+    },
+    {
+      "author": "Rinel",
+      "category": "SCHOOL",
+      "statement": "How many vowels are there in the French alphabet?",
+      "answer": "6"
+    },
+    {
+      "author": "Rinel",
+      "category": "SOCIETY",
+      "statement": "What is the most followed personality on instagram?",
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "CYBERSECURITY",
+      "statement": "Could you provide a term for gaining unauthorized access to a computer system ?",
+      "answer": "Hacking"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term for the practice of hiding online identity ?",
+      "answer": "Anonymity"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "CYBERSECURITY",
+      "statement": "What is a program that records keystrokes called ?",
+      "answer": "Keylogger"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "CYBERSECURITY",
+      "statement": "How do you describe the practice of protecting data by creating copies and storing them in multiple locations ?",
+      "answer": "Backup"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ECONOMICS",
+      "statement": "What is the main import of Japan ?",
+      "answer": "Oil"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ECONOMICS",
+      "statement": "Which company is the largest technology firm in Japan ?",
+      "answer": "Sony"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ECONOMICS",
+      "statement": "In Japan, which e-commerce company is the biggest ?",
+      "answer": "Rakuten"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the largest convenience store chain in Japan ?",
+      "answer": "7-Eleven"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ENVIRONMENT",
+      "statement": "What is Japan\u0027s largest environmental issue ?",
+      "answer": "Air pollution"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ENVIRONMENT",
+      "statement": "In Japan, which natural disaster poses the greatest risk to public safety ?",
+      "answer": "Earthquakes"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ENVIRONMENT",
+      "statement": "What percentage of Japan\u0027s land area is covered by forests ?",
+      "answer": "67%"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main contributor to non-recyclable waste in Japan ?",
+      "answer": "Plastic packaging"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SCHOOL",
+      "statement": "What is the Japanese word for \"teacher\" ?",
+      "answer": "Sensei"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SCHOOL",
+      "statement": "How do Japanese schools address students ?",
+      "answer": "Last name only"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SCHOOL",
+      "statement": "In Japanese schools, what sport is the most commonly played ?",
+      "answer": "Baseball"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SCHOOL",
+      "statement": "Which high school in Japan is considered to be the most prestigious ?",
+      "answer": "Kasei"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SOCIETY",
+      "statement": "What is the most popular hobbiy among Japanese people ?",
+      "answer": "Origami"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SOCIETY",
+      "statement": "What is the name of the traditional Japanese clothing ?",
+      "answer": "Kimono"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SOCIETY",
+      "statement": "Could you name the most traditional games played in Japan ?",
+      "answer": "Kendama"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "SOCIETY",
+      "statement": "Which alcoholic beverages is popular in Japan ?",
+      "answer": "Sake"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "MINDFULNESS",
+      "statement": "Could you find the opposite of mindfulness ?",
+      "answer": "Mindlessness"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "MINDFULNESS",
+      "statement": "What is the difference between mindfulness and mind-wandering ?",
+      "answer": "Attention vs Distraction"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "MINDFULNESS",
+      "statement": "Which anime character uses mindful breathing to improve their sword-fighting skills ?",
+      "answer": "Tanjiro"
+    },
+    {
+      "author": "Jason ",
+      "category": "ECONOMICS",
+      "statement": "Where is the world\u0027s largest stock exchange, commonly known as \"Wall Street\" ?",
+      "answer": "New-York"
+    },
+    {
+      "author": "Jason",
+      "category": "ECONOMICS",
+      "statement": "How do we call the currency in Japan ? ",
+      "answer": "Yen"
+    },
+    {
+      "author": "Jason",
+      "category": "ECONOMICS",
+      "statement": "What is the best-selling console in the world ?",
+      "answer": "PlayStation 2"
+    },
+    {
+      "author": "Jason",
+      "category": "ENVIRONMENT",
+      "statement": "How do we call the giant extinct species of sharks thah disappeared 3.6 million years ago ?",
+      "answer": "Megalodon"
+    },
+    {
+      "author": "Jason",
+      "category": "ENVIRONMENT",
+      "statement": "What fish species is represented in the movie \"Finding Nemo\" ? ",
+      "answer": "Clownfish"
+    },
+    {
+      "author": "Jason",
+      "category": "ENVIRONMENT",
+      "statement": "What is the northernmost principal isle in Japan ?",
+      "answer": "Hokkaido"
+    },
+    {
+      "author": "Jason",
+      "category": "CYBERSECURITY",
+      "statement": "How do we call the informatic problem that scared everyone before January 1st 2000 ?",
+      "answer": "Year 2000 bug"
+    },
+    {
+      "author": "Jason",
+      "category": "CYBERSECURITY",
+      "statement": "What is the concept of internet security that requires the user to click on images corresponding to a given word ?",
+      "answer": "Captcha"
+    },
+    {
+      "author": "Jason",
+      "category": "CYBERSECURITY",
+      "statement": "Which government agency in the U.S. Department of defense is responsible for the security of the U.S. government\u0027s information systems ? ",
+      "answer": "NSA"
+    },
+    {
+      "author": "Jason",
+      "category": "CYBERSECURITY",
+      "statement": "What is the French law that aims to put an end to peer-to-peer file sharing when these shares do not respect copyright",
+      "answer": "Hadopi"
+    },
+    {
+      "author": "Jason",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the game whose main theme is freedom and machine consciousness in the future ?",
+      "answer": "Detroit : become human"
+    },
+    {
+      "author": "Jason",
+      "category": "MINDFULNESS",
+      "statement": "What is the most common mindfulness practice ? ",
+      "answer": "Meditation"
+    },
+    {
+      "author": "Jason",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the world\u0027s most popular online meditation program ?",
+      "answer": "Headspace"
+    },
+    {
+      "author": "Jason",
+      "category": "MINDFULNESS",
+      "statement": "What term refers to the state of mindfulness in Buddhist meditation",
+      "answer": "Samadhi"
+    },
+    {
+      "author": "Jason",
+      "category": "SCHOOL",
+      "statement": "What is the name of the first rocket to take a man to the moon ?",
+      "answer": "Apollo 11"
+    },
+    {
+      "author": "Jason",
+      "category": "SCHOOL",
+      "statement": "In the periodic table of elements, what is the symbol for the silver element ?",
+      "answer": "Ag"
+    },
+    {
+      "author": "Jason",
+      "category": "SCHOOL",
+      "statement": "Who is behind the theory of relativity ?",
+      "answer": "Albert Einstein"
+    },
+    {
+      "author": "Jason",
+      "category": "SCHOOL",
+      "statement": "What is the name of our galaxy ?",
+      "answer": "Milky way"
+    },
+    {
+      "author": "Dennis",
+      "category": "CYBERSECURITY",
+      "statement": "Who created the first antivirus software ?",
+      "answer": "Vaclav Krejcí "
+    },
+    {
+      "author": "Dennis",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the most common form of cyber attack ?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Dennis",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the measure of the average level of prices of goods and services in aneconomy ?",
+      "answer": "Consumer Price Index"
+    },
+    {
+      "author": "Dennis",
+      "category": "ECONOMICS",
+      "statement": "When was the euro currency introduced ? ",
+      "answer": "1999"
+    },
+    {
+      "author": "Dennis",
+      "category": "ECONOMICS",
+      "statement": "How do economists measure unemployment ?",
+      "answer": "By calculating the percentage of thelabor force that is currently without work and seeking employment"
+    },
+    {
+      "author": "Dennis",
+      "category": "ENVIRONMENT",
+      "statement": "Who wrote the book \"Silent Spring\" about the dangers of pesticides ?",
+      "answer": "Rachel Carson"
+    },
+    {
+      "author": "Dennis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the largest man-made structure visible from space ?",
+      "answer": "The great wall of China"
+    },
+    {
+      "author": "Dennis",
+      "category": "ENVIRONMENT",
+      "statement": "When did the world\u0027s first national park, Yellowstone, open ?",
+      "answer": "1872"
+    },
+    {
+      "author": "Dennis",
+      "category": "ENVIRONMENT",
+      "statement": "How are deforestation and climate change linked ?",
+      "answer": "By releasing carbon dioxide"
+    },
+    {
+      "author": "Dennis",
+      "category": "CYBERSECURITY",
+      "statement": "When did the first computer virus appear ?",
+      "answer": "1971"
+    },
+    {
+      "author": "Dennis",
+      "category": "ECONOMICS",
+      "statement": "Who developed the theory of supply and demand ?",
+      "answer": "Adam Smith"
+    },
+    {
+      "author": "Dennis",
+      "category": "MINDFULNESS",
+      "statement": "Who is known as the father of mindfulness meditation ?",
+      "answer": "Jon Kabat-Zinn"
+    },
+    {
+      "author": "Dennis",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the technique that involves focusing on one\u0027s breath ?",
+      "answer": "Mindfulness breathing"
+    },
+    {
+      "author": "Dennis",
+      "category": "MINDFULNESS",
+      "statement": "When was the first scientific study on the benefits of meditation published ?",
+      "answer": "1975"
+    },
+    {
+      "author": "Dennis",
+      "category": "MINDFULNESS",
+      "statement": "How does mindfulness meditation help reduce stress ?",
+      "answer": "By increasing self-awarenessand reducing the reactivity of the amygdala"
+    },
+    {
+      "author": "Dennis",
+      "category": "SCHOOL",
+      "statement": "Who invented the printing press ?",
+      "answer": " Johannes Gutenberg"
+    },
+    {
+      "author": "Dennis",
+      "category": "SCHOOL",
+      "statement": "What is the name of the type of learning that involves self-directed inquiry and exploration ?",
+      "answer": "Inquiry-based learning"
+    },
+    {
+      "author": "Dennis",
+      "category": "SCHOOL",
+      "statement": "When did the first public school in the United States open ?",
+      "answer": "1635"
+    },
+    {
+      "author": "Dennis",
+      "category": "SCHOOL",
+      "statement": "How do schools in different countries vary in terms of academic performance ?",
+      "answer": "Dueto a variety of factors, such as cultural attitudes towards education, government policies, andfunding"
+    },
+    {
+      "author": "Dennis",
+      "category": "SOCIETY",
+      "statement": "Who is known as the \"Queen of Soul\" ?",
+      "answer": "Aretha Franklin"
+    },
+    {
+      "author": "Dennis",
+      "category": "SOCIETY",
+      "statement": "What is the name of the movement that advocated for the right to vote for women ?",
+      "answer": "Suffrage movement"
+    },
+    {
+      "author": "Dennis",
+      "category": "SOCIETY",
+      "statement": "When did the Berlin Wall fall ?",
+      "answer": "9 november 1989"
+    },
+    {
+      "author": "Dennis",
+      "category": "SOCIETY",
+      "statement": "How has social media impacted politics in recent years ?",
+      "answer": "By providing a platform forpolitical discourse"
+    },
+    {
+      "author": "Jason",
+      "category": "SOCIETY",
+      "statement": "What is the civilization represented in the game \"Assassin\u0027s Creed : Valhalla\" ?",
+      "answer": "Vikings"
+    },
+    {
+      "author": "Jason",
+      "category": "SOCIETY",
+      "statement": "What\u0027s the name of the federal holiday in the United States that happens every fourth Thursday in November ?",
+      "answer": "Thanksgiving"
+    },
+    {
+      "author": "Jason",
+      "category": "SOCIETY",
+      "statement": "What suffix do the Japanese use when speaking to an older colleague or student ?",
+      "answer": "Senpai"
+    },
+    {
+      "author": "Jason",
+      "category": "SOCIETY",
+      "statement": "What is the Cammy\u0027s nationality in the Street Fighter game series ?",
+      "answer": "English"
+    },
+    {
+      "author": "Jason",
+      "category": "ENVIRONMENT",
+      "statement": "Which national park was the first established in the United States after 1872 ?",
+      "answer": "Yellowstone"
+    },
+    {
+      "author": "Jason",
+      "category": "ECONOMICS",
+      "statement": "What was the initial product that Nintendo sold when the company began in 1889 ?",
+      "answer": "Playing cards"
+    },
+    {
+      "author": "Wouilliam",
+      "category": "MINDFULNESS",
+      "statement": "What is the relationship between mindfulness and self-awareness ?",
+      "answer": "Interconnected"
+    },
+    {
+      "author": "Hadrien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the hacking technique that involves using malicious software to block access to a computer system until a ransom is paid?",
+      "answer": "ransomware"
+    },
+    {
+      "author": "Hadrien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe a security flaw in a computer system that allows an attacker to execute malicious code remotely?",
+      "answer": "vulnerability"
+    },
+    {
+      "author": "Hadrien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the method for verifying a user\u0027s identity in two steps that uses both a password and additional information, such as a code sent via SMS?",
+      "answer": "two-factor authentication"
+    },
+    {
+      "author": "Hadrien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe an attack that uses fraudulent emails or instant messages to trick people into sharing sensitive information?",
+      "answer": "phishing"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the measurement of the total value of goods and services produced in a country during a given year?",
+      "answer": "GDP"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ECONOMICS",
+      "statement": "What is the name given to the part of the economy that is managed and regulated by private companies, rather than by the state?",
+      "answer": "private sector"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the situation where the demand for a product or service is higher than the supply, resulting in an increase in prices?",
+      "answer": "shortage"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe a prolonged period of falling stock prices on financial markets?",
+      "answer": "crash"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the heat measure that is trapped in the Earth\u0027s atmosphere due to the accumulation of greenhouse gases?",
+      "answer": "the greenhouse effect"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ENVIRONMENT",
+      "statement": "What term is used to describe the depletion of natural resources on the planet, such as fossil fuels, metals, and freshwater?",
+      "answer": "resource depletion"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name given to the collection of animal and plant species that live in a given environment?",
+      "answer": "biodiversity"
+    },
+    {
+      "author": "Hadrien",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the ozone layer that protects the Earth from harmful UV rays from the sun?",
+      "answer": "the stratosphere"
+    },
+    {
+      "author": "Hadrien",
+      "category": "MINDFULNESS",
+      "statement": "What is the name given to the practice of focusing on one\u0027s breath to calm the mind and improve self-awareness?",
+      "answer": "conscious breathing"
+    },
+    {
+      "author": "Hadrien",
+      "category": "MINDFULNESS",
+      "statement": "What term is used to describe the awareness of one\u0027s thoughts and emotions without judging or criticizing them?",
+      "answer": "mindfulness"
+    },
+    {
+      "author": "Hadrien",
+      "category": "MINDFULNESS",
+      "statement": "What is the name given to the relaxation technique that involves tensing and releasing muscles in different parts of the body to reduce tension and stress?",
+      "answer": "progressive muscle relaxation"
+    },
+    {
+      "author": "Hadrien",
+      "category": "MINDFULNESS",
+      "statement": "What term is used to describe the practice of intentionally focusing on the present moment without judgment?",
+      "answer": "meditation"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SCHOOL",
+      "statement": "What is the term used to describe a type of academic assessment that tests a student\u0027s knowledge and understanding in a given subject without taking into account their practical skills?",
+      "answer": "exam"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SCHOOL",
+      "statement": "What is the term used to describe a set of rules and principles that govern the behavior of students in a school or educational institution?",
+      "answer": "school rules"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SCHOOL",
+      "statement": "What is the term used to describe a learning method that encourages students to work in groups to solve problems or perform specific tasks?",
+      "answer": "group work"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SCHOOL",
+      "statement": "What is the term used to describe a teaching method that uses information and communication technologies to facilitate distance learning for students?",
+      "answer": "e-learning"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a situation where there is a lack of work and means of livelihood for a large portion of the population in a country or region?",
+      "answer": "unemployment"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a situation where people are excluded from society due to their age, gender, sexual orientation, etc.?",
+      "answer": "social exclusion"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a process by which a group of people is deprived of their political, social, and economic rights due to their religion or ethnic origin?",
+      "answer": "discrimination"
+    },
+    {
+      "author": "Hadrien",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a situation where there is a lack of food or sufficient resources to meet the basic needs of the population?",
+      "answer": "famine"
+    },
+    {
+      "author": "Aurelien",
+      "category": "CYBERSECURITY",
+      "statement": "What web service company suffered one of the biggest data leaks in history where more than 500 million accounts were compromised ?",
+      "answer": "Yahoo"
+    },
+    {
+      "author": "Aurelien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term for an ethical hacker who uses their skills to help protect computer systems and networks from malicious attacks ?",
+      "answer": "White hats"
+    },
+    {
+      "author": "Aurelien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the technique used to disrupt the normal functioning of a website by flooding it with a large volume of traffic ?",
+      "answer": "DDOS"
+    },
+    {
+      "author": "Aurelien",
+      "category": "CYBERSECURITY",
+      "statement": "What is the part of the internet that is intentionally hidden and mainly used for illicit purposes called?",
+      "answer": "Dark web"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the popular digital currency that relies on blockchain technology for secure, decentralized transactions ?",
+      "answer": "Bitcoin"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ECONOMICS",
+      "statement": "What country has the world\u0027s largest GDP ?",
+      "answer": "USA"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ECONOMICS",
+      "statement": "What is the average net monthly salary in Belgium ?",
+      "answer": "2500"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ECONOMICS",
+      "statement": "In Belgium, what is the largest expenditure of the government according to the latest available data ?",
+      "answer": "healthcare"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the Ukrainian nuclear power plant where the nuclear disaster occurred in 1986, causing radioactive contamination that affected millions of people in the region? ?",
+      "answer": "Chernobyl"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ENVIRONMENT",
+      "statement": "How quickly does a plastic bag decompose ?",
+      "answer": "10 years"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ENVIRONMENT",
+      "statement": "How many showers equal one bath ?",
+      "answer": "5"
+    },
+    {
+      "author": "Aurelien",
+      "category": "ENVIRONMENT",
+      "statement": "By how many degree(s) will the temperature increase in the next century, according to scientists ?",
+      "answer": "3 degrees"
+    },
+    {
+      "author": "Aurelien",
+      "category": "MINDFULNESS",
+      "statement": "What is the recommended position for practicing mindfulness ?",
+      "answer": "seated"
+    },
+    {
+      "author": "Aurelien",
+      "category": "MINDFULNESS",
+      "statement": "What are the benefits of practicing mindfulness regularly ?",
+      "answer": "Improve well-being by reducing stress and anxiety"
+    },
+    {
+      "author": "Aurelien",
+      "category": "MINDFULNESS",
+      "statement": "How long does a meditation last on average ?",
+      "answer": "5 minutes"
+    },
+    {
+      "author": "Aurelien",
+      "category": "MINDFULNESS",
+      "statement": "How can mindfulness be used to improve sports performance ?",
+      "answer": "Manage the pressure"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SCHOOL",
+      "statement": "What is the largest university in France, located in Paris ?",
+      "answer": "Sorbonne"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SCHOOL",
+      "statement": "In which American city is Harvard University located, founded in 1636 ?",
+      "answer": "Cambridge"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SCHOOL",
+      "statement": "The man with the highest IQ score got...",
+      "answer": "230"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SCHOOL",
+      "statement": "In wich year did school become compulsory in Belgium?",
+      "answer": "1914"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SOCIETY",
+      "statement": "What is the busiest European station ?",
+      "answer": "Paris gare du Nord"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SOCIETY",
+      "statement": "What was the first city in the world to have a metro ?",
+      "answer": "London"
+    },
+    {
+      "author": "Aurelien",
+      "category": "SOCIETY",
+      "statement": "How many millions of visitors does the Eiffel Tower welcome each year ?",
+      "answer": "7"
+    },
+    {
+      "author": "Théo",
+      "category": "ECONOMICS",
+      "statement": "What is the total of a amount of the money that the government owes to creditors ?",
+      "answer": "National debt"
+    },
+    {
+      "author": "Théo",
+      "category": "ECONOMICS",
+      "statement": "What is the expression for the cost of borrowing money, expressed as a percentage ?",
+      "answer": "interest rate"
+    },
+    {
+      "author": "Théo",
+      "category": "ECONOMICS",
+      "statement": "What is the expression to describe a general increase in the prices of goods and services ? ",
+      "answer": "inflation"
+    },
+    {
+      "author": "Théo",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the non-physical place where buyers and sellers meet to exchange equity shares of public corporations ?",
+      "answer": "stock market"
+    },
+    {
+      "author": "Théo",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the technique to imagine a desired outcome ?",
+      "answer": "visualisation"
+    },
+    {
+      "author": "Théo",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the practice to focus on the positive aspects of life ?",
+      "answer": "gratitude"
+    },
+    {
+      "author": "Théo",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the practice to accept events as they are without judgment ?",
+      "answer": "acceptance"
+    },
+    {
+      "author": "Théo",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the practice to cultivate empathy and kindness towards oneself and other ?",
+      "answer": "compassion"
+    },
+    {
+      "author": "Théo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the introduction of harmful materials into the environment ?",
+      "answer": "pollution"
+    },
+    {
+      "author": "Théo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term used to describe the increase in the average temperature of the planet ?",
+      "answer": "global warming"
+    },
+    {
+      "author": "Théo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the energy that is naturally replenished ?",
+      "answer": "renewable energy"
+    },
+    {
+      "author": "Théo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the protection and management of natural resources for future generations ?",
+      "answer": "conservation"
+    },
+    {
+      "author": "Théo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe the security measure that adds an extra layer of protection to access an account ?",
+      "answer": "two-factor authentication"
+    },
+    {
+      "author": "Théo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the point of duplicating files in case of a problem ?",
+      "answer": "backup"
+    },
+    {
+      "author": "Théo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the protection used to monitors and controls network traffic to prevent malicious attacks ?",
+      "answer": "firewall"
+    },
+    {
+      "author": "Théo",
+      "category": "CYBERSECURITY",
+      "statement": "WHat type of computer virus is used to steal or destroy informations ?",
+      "answer": "malware"
+    },
+    {
+      "author": "Théo",
+      "category": "SCHOOL",
+      "statement": "What do we call intentional intimidation, threatening or harming of a student ?",
+      "answer": "bullying"
+    },
+    {
+      "author": "Théo",
+      "category": "SCHOOL",
+      "statement": "What do we call the education adapted to the specific needs of students with learning challenges ?",
+      "answer": "special education"
+    },
+    {
+      "author": "Théo",
+      "category": "SCHOOL",
+      "statement": "What do we call a partnership between a mentor and a student to provide guidance and support ?",
+      "answer": "mentoring"
+    },
+    {
+      "author": "Théo",
+      "category": "SCHOOL",
+      "statement": "What do we call a professional who helps student with personal and academic problems",
+      "answer": "guidance counselor"
+    },
+    {
+      "author": "Théo",
+      "category": "SOCIETY",
+      "statement": "What do we call the action of campaigning for political or social change ?",
+      "answer": "activism"
+    },
+    {
+      "author": "Théo",
+      "category": "SOCIETY",
+      "statement": "What do we call the voluntary work intended to help people in a particular community?",
+      "answer": "community service"
+    },
+    {
+      "author": "Théo",
+      "category": "SOCIETY",
+      "statement": "What do we call an advantage or benefit given to certain groups of people based on their social status or identity ?",
+      "answer": "privilege"
+    },
+    {
+      "author": "Théo",
+      "category": "SOCIETY",
+      "statement": "What do we call the presence of multiple cultures and ethnicities within a society ?",
+      "answer": "cultural diversity"
+    },
+    {
+      "author": "audric",
+      "category": "CYBERSECURITY",
+      "statement": "What is used to protect a computer system from attacks?",
+      "answer": "firewall"
+    },
+    {
+      "author": "audric",
+      "category": "CYBERSECURITY",
+      "statement": "What type of attack involves flooding a server with a large amount of data to bring it down?",
+      "answer": "DDoS"
+    },
+    {
+      "author": "audric",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe the practice of guessing a password by trying different combinations?",
+      "answer": "Brute-force"
+    },
+    {
+      "author": "audric",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the malicious software that spreads by replicating itself on other computers?",
+      "answer": "Virus"
+    },
+    {
+      "author": "guillaume",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of a program designed to harm other computers ?",
+      "answer": "Malware"
+    },
+    {
+      "author": "guillaume",
+      "category": "CYBERSECURITY",
+      "statement": "What is phising ?",
+      "answer": "Scam"
+    },
+    {
+      "author": "guillaume",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of an attack who aims the servers of a website/application?",
+      "answer": "DDOS"
+    },
+    {
+      "author": "guillaume",
+      "category": "CYBERSECURITY",
+      "statement": "What is an SSL/TLS certificate ?",
+      "answer": "digital security certificate"
+    },
+    {
+      "author": "nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What�s a type of malware that blocks access to a system or data until a ransom is paid�?",
+      "answer": "Ransomware"
+    },
+    {
+      "author": "nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What do you call the act of hiding data so that it cannot be read by unauthorised persons?",
+      "answer": "encryption"
+    },
+    {
+      "author": "nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term for verifying the identity of a user or a computer system before granting access to resources?",
+      "answer": "authentication"
+    },
+    {
+      "author": "nicolas",
+      "category": "CYBERSECURITY",
+      "statement": "What�s a type of attack that uses programs to mimic human behavior and deceive users�?",
+      "answer": "Fishing"
+    },
+    {
+      "author": "audric",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the total amount of goods and services produced in an economy during a given period?",
+      "answer": "GDP"
+    },
+    {
+      "author": "audric",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the amount of money a company owes to others?",
+      "answer": "Debt"
+    },
+    {
+      "author": "audric",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the situation where there is more demand than supply for a good or service, leading to an increase in prices?",
+      "answer": "Inflation"
+    },
+    {
+      "author": "audric",
+      "category": "ECONOMICS",
+      "statement": "What is the term used to describe the period of economic slowdown where production, employment, and income decrease?",
+      "answer": "Recession"
+    },
+    {
+      "author": "guillaume",
+      "category": "ECONOMICS",
+      "statement": "How do we call the value generated over a year on the area of an entire country?",
+      "answer": "GDP"
+    },
+    {
+      "author": "guillaume",
+      "category": "ECONOMICS",
+      "statement": "How do you qualify \"a household\" from a microeconomic point of view?",
+      "answer": "an economic player"
+    },
+    {
+      "author": "guillaume",
+      "category": "ECONOMICS",
+      "statement": "which subject aims to study the global aspect of the economy from large aggregates�?",
+      "answer": "macroeconomics"
+    },
+    {
+      "author": "guillaume",
+      "category": "ECONOMICS",
+      "statement": "which subject aims to study small-scale interactions�?",
+      "answer": "microeconomics"
+    },
+    {
+      "author": "nicolas",
+      "category": "ECONOMICS",
+      "statement": "What�s the difference between a country�s total exports and total imports called�?",
+      "answer": "Trade balance"
+    },
+    {
+      "author": "nicolas",
+      "category": "ECONOMICS",
+      "statement": "What�s the rate at which the general level of prices for products and services is rising called�?",
+      "answer": "inflation"
+    },
+    {
+      "author": "nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is the total value of goods and services produced in a country over a period of time called ?",
+      "answer": "GDP"
+    },
+    {
+      "author": "nicolas",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the continuous and general rise in prices in an economy?",
+      "answer": "inflation"
+    },
+    {
+      "author": "audric",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term used to describe the natural processes that maintain the conditions for life on Earth?",
+      "answer": "Ecosystem"
+    },
+    {
+      "author": "audric",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term used to describe the progressive loss of biological diversity on Earth?",
+      "answer": "Biodiversity"
+    },
+    {
+      "author": "audric",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term used to describe the situation where the amount of greenhouse gases in the atmosphere increases, leading to global warming?",
+      "answer": "Climate change"
+    },
+    {
+      "author": "audric",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term used to describe the process of transforming waste into new materials or energy",
+      "answer": "Recycling"
+    },
+    {
+      "author": "guillaume",
+      "category": "ENVIRONMENT",
+      "statement": "which renewable energy is the most efficient�?",
+      "answer": "solar energy"
+    },
+    {
+      "author": "guillaume",
+      "category": "ENVIRONMENT",
+      "statement": "which industrial sector produces the most co2�?",
+      "answer": "electricity production"
+    },
+    {
+      "author": "guillaume",
+      "category": "ENVIRONMENT",
+      "statement": "which year is considered the warmest since 1850�?",
+      "answer": "2020"
+    },
+    {
+      "author": "guillaume",
+      "category": "ENVIRONMENT",
+      "statement": "What means of transport pollutes the most�?",
+      "answer": "the plane"
+    },
+    {
+      "author": "nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the practice of replanting trees in an area where the forest has been cut down called?",
+      "answer": "reforestation"
+    },
+    {
+      "author": "nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the biological breakdown of organic waste into nutrient-rich compost?",
+      "answer": "composting"
+    },
+    {
+      "author": "nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What is the ozone layer that protects the Earth from harmful ultraviolet rays called?",
+      "answer": "stratosphere"
+    },
+    {
+      "author": "nicolas",
+      "category": "ENVIRONMENT",
+      "statement": "What do we call the decrease in the amount of ice in the polar regions and mountain glaciers?",
+      "answer": "melting"
+    },
+    {
+      "author": "audric",
+      "category": "MINDFULNESS",
+      "statement": "What is the term used to describe the practice of being fully aware of one\u0027s thoughts, emotions, and physical sensations in the present moment?",
+      "answer": "Mindfulness"
+    },
+    {
+      "author": "audric",
+      "category": "MINDFULNESS",
+      "statement": "What is the term used to describe the state of mind that involves accepting thoughts and emotions without judgment or trying to change them?",
+      "answer": "Non-judgment"
+    },
+    {
+      "author": "audric",
+      "category": "MINDFULNESS",
+      "statement": "What is the term used to describe the ability to fully focus on a given task or activity?",
+      "answer": "Attention"
+    },
+    {
+      "author": "audric",
+      "category": "MINDFULNESS",
+      "statement": "What is the term used to describe the practice of regularly taking breaks to refocus on oneself and the present moment?",
+      "answer": "Meditation"
+    },
+    {
+      "author": "guillaume",
+      "category": "MINDFULNESS",
+      "statement": "What is the main purpose of mindfulness practice�?",
+      "answer": "self-awareness"
+    },
+    {
+      "author": "guillaume",
+      "category": "MINDFULNESS",
+      "statement": "What is the meditation technique that involves focusing on your breathing called?",
+      "answer": "Anapanasati"
+    },
+    {
+      "author": "guillaume",
+      "category": "MINDFULNESS",
+      "statement": "What is the main type of meditation practiced as part of mindfulness?",
+      "answer": "Vipassana"
+    },
+    {
+      "author": "guillaume",
+      "category": "MINDFULNESS",
+      "statement": "what is the greatest benefit of practicing mindfulness?",
+      "answer": "stress reduction"
+    },
+    {
+      "author": "nicolas",
+      "category": "MINDFULNESS",
+      "statement": "What do you call the practice of connecting with nature to recharge and relax?",
+      "answer": "ecotherapy"
+    },
+    {
+      "author": "nicolas",
+      "category": "MINDFULNESS",
+      "statement": "What do we call the practice of listening to one\u0027s body sensations, emotions and thoughts in order to know oneself better�?",
+      "answer": "introspection"
+    },
+    {
+      "author": "nicolas",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of being fully engaged in an activity without being distracted by extraneous thoughts?",
+      "answer": "flow"
+    },
+    {
+      "author": "nicolas",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of focusing on the breath in order to center and calm oneself?",
+      "answer": "meditation"
+    },
+    {
+      "author": "audric",
+      "category": "SCHOOL",
+      "statement": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "author": "audric",
+      "category": "SCHOOL",
+      "statement": "What was the name of the king of Belgium in 2022?",
+      "answer": "Philippe"
+    },
+    {
+      "author": "audric",
+      "category": "SCHOOL",
+      "statement": "What is the mathematical constant that starts with 3.14?",
+      "answer": "Pi"
+    },
+    {
+      "author": "audric",
+      "category": "SCHOOL",
+      "statement": "In what year did astronaut Neil Armstrong walk on the moon?",
+      "answer": "1969"
+    },
+    {
+      "author": "guillaume",
+      "category": "SCHOOL",
+      "statement": "In which year education was made compulsory in belgium�?",
+      "answer": "1914"
+    },
+    {
+      "author": "guillaume",
+      "category": "SCHOOL",
+      "statement": "What is the most famous math theorem of high school students�?",
+      "answer": "the pythagorean theorem"
+    },
+    {
+      "author": "guillaume",
+      "category": "SCHOOL",
+      "statement": "In what year did Christopher Columbus discover America?",
+      "answer": "1492"
+    },
+    {
+      "author": "guillaume",
+      "category": "SCHOOL",
+      "statement": "Who wrote les miserables?",
+      "answer": "Victor Hugo"
+    },
+    {
+      "author": "nicolas",
+      "category": "SCHOOL",
+      "statement": "What is the name of the closest planet to the sun ?",
+      "answer": "Mercury "
+    },
+    {
+      "author": "nicolas",
+      "category": "SCHOOL",
+      "statement": "What is the name of the world\u0027s largest ocean ?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "author": "nicolas",
+      "category": "SCHOOL",
+      "statement": "What is the name of the first person to walk on the moon?",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "author": "nicolas",
+      "category": "SCHOOL",
+      "statement": "In what year did Christopher Columbus discover America ?",
+      "answer": "1492"
+    },
+    {
+      "author": "audric",
+      "category": "SOCIETY",
+      "statement": "What term is used to describe a group of people who share a common culture, language, or geographic region?",
+      "answer": "Community"
+    },
+    {
+      "author": "audric",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe the art of sculpture, where three-dimensional forms are created by carving or modeling materials such as stone, clay, or metal?",
+      "answer": "Sculpture"
+    },
+    {
+      "author": "audric",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe a person who enjoys films and has a great passion or interest in cinema?",
+      "answer": "Cinephile"
+    },
+    {
+      "author": "audric",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe the state of lacking access to the resources necessary to lead a comfortable and satisfying life, such as food, housing, education, and healthcare?",
+      "answer": "Poverty"
+    },
+    {
+      "author": "guillaume",
+      "category": "SOCIETY",
+      "statement": "What is the most used service to communicate?",
+      "answer": "internet"
+    },
+    {
+      "author": "guillaume",
+      "category": "SOCIETY",
+      "statement": "What is Belgium\u0027s current political system?",
+      "answer": "monarchy"
+    },
+    {
+      "author": "guillaume",
+      "category": "SOCIETY",
+      "statement": "what is the first name of the wife of the current king of belgium?",
+      "answer": "Mathilde"
+    },
+    {
+      "author": "guillaume",
+      "category": "SOCIETY",
+      "statement": "how many children does king philippe have?",
+      "answer": "4"
+    },
+    {
+      "author": "nicolas",
+      "category": "SOCIETY",
+      "statement": "What is the economic system based on private ownership of the means of production  called?",
+      "answer": "Capitalism"
+    },
+    {
+      "author": "nicolas",
+      "category": "SOCIETY",
+      "statement": "What do you call a person who works for a company in exchange for a salary ?",
+      "answer": "an  employee "
+    },
+    {
+      "author": "nicolas",
+      "category": "SOCIETY",
+      "statement": "What do we call the system of government in which one person has all the power ?",
+      "answer": "dictatorship"
+    },
+    {
+      "author": "nicolas",
+      "category": "SOCIETY",
+      "statement": "What do you call a person who works for himself or herself?",
+      "answer": "Self-employed"
+    },
+    {
+      "author": "Tim",
+      "category": "SCHOOL",
+      "statement": "What is the date of the beginning of the revolution?",
+      "answer": "1789"
+    },
+    {
+      "author": "Tim",
+      "category": "SCHOOL",
+      "statement": "What is the date of the US Declaration of Independence?",
+      "answer": "1776"
+    },
+    {
+      "author": "Tim",
+      "category": "SCHOOL",
+      "statement": "What is the most well-known document written by the French inspired by the American Revolution in 1789?",
+      "answer": "The Declaration of Human Rights"
+    },
+    {
+      "author": "Tim",
+      "category": "SCHOOL",
+      "statement": "Which branch of mathematics deals with planes and figures?",
+      "answer": "Geometry"
+    },
+    {
+      "author": "Tim",
+      "category": "ECONOMICS",
+      "statement": "Who is the thinker of capitalism (Just the name)?",
+      "answer": "Smith"
+    },
+    {
+      "author": "Tim",
+      "category": "ECONOMICS",
+      "statement": "What is the economic system with the most wealth redistribution?",
+      "answer": "Communism"
+    },
+    {
+      "author": "Tim",
+      "category": "ECONOMICS",
+      "statement": "What do you call the takeover of a company by buying its shares without the agreement of the board of directors of the acquired company?",
+      "answer": "Hostile takeover"
+    },
+    {
+      "author": "Tim",
+      "category": "ECONOMICS",
+      "statement": "What do you call someone who lives by buying and selling stocks in the stock market?",
+      "answer": "Trader"
+    },
+    {
+      "author": "Tim",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the environmental activist born in 2003 who launched a series of protests in the Western world to push for environmental measures?",
+      "answer": "Greta Thunberg"
+    },
+    {
+      "author": "Tim",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term defining the disappearance of a species?",
+      "answer": "Extinction"
+    },
+    {
+      "author": "Tim",
+      "category": "ENVIRONMENT",
+      "statement": "What is the percentage, rounded to the nearest ten, of water on earth?",
+      "answer": "70%"
+    },
+    {
+      "author": "Tim",
+      "category": "ENVIRONMENT",
+      "statement": "What is the commercial activity that causes the most damage to the seabed?",
+      "answer": "Overfishing"
+    },
+    {
+      "author": "Tim",
+      "category": "CYBERSECURITY",
+      "statement": "What does the acronym VPN stand for?",
+      "answer": "Virtual private network"
+    },
+    {
+      "author": "Tim",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe stealing personal data using a fraudulent email?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Tim",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the technique used to force access to a system by trying all possible password combinations?",
+      "answer": "Brute force"
+    },
+    {
+      "author": "Tim",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the malicious program that spreads from one computer to another without human intervention?",
+      "answer": "Virus"
+    },
+    {
+      "author": "Tim",
+      "category": "MINDFULNESS",
+      "statement": "How does mindfulness affect the brain?",
+      "answer": "Focus"
+    },
+    {
+      "author": "Tim",
+      "category": "MINDFULNESS",
+      "statement": "Can mindfulness be practiced anywhere?",
+      "answer": "Yes"
+    },
+    {
+      "author": "Tim",
+      "category": "MINDFULNESS",
+      "statement": "Is mindfulness a religious practice?",
+      "answer": "No"
+    },
+    {
+      "author": "Tim",
+      "category": "MINDFULNESS",
+      "statement": "How long should mindfulness be practiced each day?",
+      "answer": "Consistency"
+    },
+    {
+      "author": "Tim",
+      "category": "SOCIETY",
+      "statement": "What is the term that describes opposition between different social classes?",
+      "answer": "Class struggle"
+    },
+    {
+      "author": "Tim",
+      "category": "SOCIETY",
+      "statement": "In what year did students protest the arrest of other students who were themselves protesting to stop the Vietnam War? (These protests took on a national scale in France.)",
+      "answer": "1968"
+    },
+    {
+      "author": "Tim",
+      "category": "SOCIETY",
+      "statement": "How many official languages does Belgium have?",
+      "answer": "3"
+    },
+    {
+      "author": "Tim",
+      "category": "SOCIETY",
+      "statement": "Which country was torn apart by a civil war in Europe from 1968 to 1998?",
+      "answer": "Northern Ireland"
+    },
+    {
+      "author": "Albert",
+      "category": "ECONOMICS",
+      "statement": "Who invented the economic model called \"Communism\"?",
+      "answer": "Karl Marx"
+    },
+    {
+      "author": "Albert",
+      "category": "ECONOMICS",
+      "statement": "What’s the name of the tax intended to company?",
+      "answer": "Business Tax"
+    },
+    {
+      "author": "Albert",
+      "category": "ECONOMICS",
+      "statement": "Which major economic model is based on a market economy?",
+      "answer": "Capitalism"
+    },
+    {
+      "author": "Albert",
+      "category": "ECONOMICS",
+      "statement": "What does IMF stand for?",
+      "answer": "International Monetary Fund"
+    },
+    {
+      "author": "Albert",
+      "category": "CYBERSECURITY",
+      "statement": "Who was the person who invented what the very first computer and who, among other things, enabled the British to break the Enigma code during the Second World War? (Full name)",
+      "answer": "Alan Turing"
+    },
+    {
+      "author": "Albert",
+      "category": "CYBERSECURITY",
+      "statement": "Which Belgian federal agency fights against cyber security crimes?",
+      "answer": "Computer Crime Unit"
+    },
+    {
+      "author": "Albert",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the cipher used to encrypt a message by replacing each letter of the message by another one at a fixed distance?",
+      "answer": "Caesar Cipher"
+    },
+    {
+      "author": "Albert",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name given to malware that masquerades as malicious software to infiltrate a computer?",
+      "answer": "Trojan Horse"
+    },
+    {
+      "author": "Albert",
+      "category": "SCHOOL",
+      "statement": "Which Belgian king was nicknamed \"The Knight King\" for his participation in the First World War?",
+      "answer": "Albert I"
+    },
+    {
+      "author": "Albert",
+      "category": "SCHOOL",
+      "statement": "How many countries do the European Union contains (in 2022)?",
+      "answer": "27"
+    },
+    {
+      "author": "Albert",
+      "category": "SCHOOL",
+      "statement": "Which theorem allows you to calculate the length of one side of a right-angled triangle by knowing the length of its other sides?",
+      "answer": "Pythagorean Theorem"
+    },
+    {
+      "author": "Albert",
+      "category": "SCHOOL",
+      "statement": "What is the capital of Canada?",
+      "answer": "Ottawa"
+    },
+    {
+      "author": "Albert",
+      "category": "MINDFULNESS",
+      "statement": "Which country is called the Buddhist Kingdom and is in the eastern Himalayas?",
+      "answer": "Bhutan"
+    },
+    {
+      "author": "Albert",
+      "category": "MINDFULNESS",
+      "statement": "What are the origins of Mindfulness?",
+      "answer": "Buddhism"
+    },
+    {
+      "author": "Albert",
+      "category": "MINDFULNESS",
+      "statement": "What is the religious metropolis of Tibetan Buddhism?",
+      "answer": "Lhasa"
+    },
+    {
+      "author": "Albert",
+      "category": "MINDFULNESS",
+      "statement": "Is Mindfulness scientifically proven?",
+      "answer": "Yes"
+    },
+    {
+      "author": "Albert",
+      "category": "SOCIETY",
+      "statement": "What is the name given to an imaginary society governed by a totalitarian power or an evil ideology?",
+      "answer": "Dystopia"
+    },
+    {
+      "author": "Albert",
+      "category": "SOCIETY",
+      "statement": "What is the name given to a society that would be considered the ideal of societies?",
+      "answer": "Utopia"
+    },
+    {
+      "author": "Albert",
+      "category": "SOCIETY",
+      "statement": "When did we pass 8 billion people on earth?",
+      "answer": "2022"
+    },
+    {
+      "author": "Albert",
+      "category": "SOCIETY",
+      "statement": "What’s the country with the greatest density?",
+      "answer": "India"
+    },
+    {
+      "author": "Albert",
+      "category": "ENVIRONMENT",
+      "statement": "Which internationally recognised group provides detailed assessments of climate change, its causes, and consequences (Acronym)?",
+      "answer": "IPCC"
+    },
+    {
+      "author": "Albert",
+      "category": "ENVIRONMENT",
+      "statement": "In which year was IPCC created?",
+      "answer": "1988"
+    },
+    {
+      "author": "Albert",
+      "category": "ENVIRONMENT",
+      "statement": "What are the gases that prevent the sun\u0027s rays from leaving the atmosphere?",
+      "answer": "Greenhouse gases"
+    },
+    {
+      "author": "Albert",
+      "category": "ENVIRONMENT",
+      "statement": "What’s the most ecological country of the world?",
+      "answer": "Iceland"
+    },
+    {
+      "author": "Maxence",
+      "category": "CYBERSECURITY",
+      "statement": "What’s the meaning of DDoS?",
+      "answer": "Distributed Denial of Service"
+    },
+    {
+      "author": "Maxence",
+      "category": "CYBERSECURITY",
+      "statement": "How many security pillars are there?",
+      "answer": "4"
+    },
+    {
+      "author": "Maxence",
+      "category": "CYBERSECURITY",
+      "statement": "In the acronym CIA, what does the letter A stand for?",
+      "answer": "Access"
+    },
+    {
+      "author": "Maxence",
+      "category": "CYBERSECURITY",
+      "statement": "What is double authentication?",
+      "answer": "Two-step verification"
+    },
+    {
+      "author": "Maxence",
+      "category": "ECONOMICS",
+      "statement": "What is GPD?",
+      "answer": "Gross domestic product"
+    },
+    {
+      "author": "Maxence",
+      "category": "ECONOMICS",
+      "statement": "What is public debt?",
+      "answer": "State debt"
+    },
+    {
+      "author": "Maxence",
+      "category": "ECONOMICS",
+      "statement": "What is the word used to describe a general price increase?",
+      "answer": "Inflation"
+    },
+    {
+      "author": "Maxence",
+      "category": "ECONOMICS",
+      "statement": "What is the law of supply and demand?",
+      "answer": "An economic theory"
+    },
+    {
+      "author": "Maxence",
+      "category": "ENVIRONMENT",
+      "statement": "What are the 2 colours that essentially represent the planet earth?",
+      "answer": "Blue and green"
+    },
+    {
+      "author": "Maxence",
+      "category": "ENVIRONMENT",
+      "statement": "Which pole of the earth is the flattest?",
+      "answer": "South Pole"
+    },
+    {
+      "author": "Maxence",
+      "category": "ENVIRONMENT",
+      "statement": "What is an oriole?",
+      "answer": "Bird"
+    },
+    {
+      "author": "Maxence",
+      "category": "ENVIRONMENT",
+      "statement": "What is the lightest known gas?",
+      "answer": "Hydrogen"
+    },
+    {
+      "author": "Maxence",
+      "category": "MINDFULNESS",
+      "statement": "Is stress reduction one of the many goals of mindfulness?",
+      "answer": "Yes"
+    },
+    {
+      "author": "Maxence",
+      "category": "MINDFULNESS",
+      "statement": "What’s the meaning of MBSR?",
+      "answer": "Mindfulness-Based Stress Reduction"
+    },
+    {
+      "author": "Maxence",
+      "category": "MINDFULNESS",
+      "statement": "What’s the meaning of MBCT?",
+      "answer": "Mindfulness-Based Cognitive Therapy"
+    },
+    {
+      "author": "Maxence",
+      "category": "MINDFULNESS",
+      "statement": "From what age can mindfulness be practiced?",
+      "answer": "None"
+    },
+    {
+      "author": "Maxence",
+      "category": "SCHOOL",
+      "statement": "In which year was America discovered?",
+      "answer": "1492"
+    },
+    {
+      "author": "Maxence",
+      "category": "SCHOOL",
+      "statement": "In which year was school made compulsory in France?",
+      "answer": "1882"
+    },
+    {
+      "author": "Maxence",
+      "category": "SCHOOL",
+      "statement": "Who invented Fermat’s theorem?",
+      "answer": "Pierre de Fermat"
+    },
+    {
+      "author": "Maxence",
+      "category": "SOCIETY",
+      "statement": "What is the name given to the group of people who belong to the same generation?",
+      "answer": "Cohort"
+    },
+    {
+      "author": "Maxence",
+      "category": "SOCIETY",
+      "statement": "What is the name given to the form of government in which one person exercises absolute power?",
+      "answer": "Dictatorship"
+    },
+    {
+      "author": "Maxence",
+      "category": "SOCIETY",
+      "statement": "How many ethnic approaches are there?",
+      "answer": "5"
+    },
+    {
+      "author": "Maxence",
+      "category": "SOCIETY",
+      "statement": "Who wrote this quote? “Necessity is the mother of invention”?",
+      "answer": "Platon"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "CYBERSECURITY",
+      "statement": "What is the word for a fraudulent practice that involves sending deceptive emails, messages to obtain personal information such as login credentials or credit card numbers?",
+      "answer": "phishing"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "CYBERSECURITY",
+      "statement": "Which security process requires two separate forms of identification before accessing an account?",
+      "answer": "double authentication"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "CYBERSECURITY",
+      "statement": "Which attack involves flooding a website or server with malicious requests from multiple sources, leading to system overload and service disruption?",
+      "answer": "DDOS attack"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "CYBERSECURITY",
+      "statement": "What software or hardware blocks unauthorized connections between a private network and the Internet?",
+      "answer": "firewall"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ECONOMICS",
+      "statement": "What is the measure of value of all goods and services produced in a country over a given period?",
+      "answer": "GDP"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ECONOMICS",
+      "statement": " What is the general and continuous increase in the prices of goods and services in an economy?",
+      "answer": "inflation"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ECONOMICS",
+      "statement": "What is an unregulated market where goods and services are traded outside of traditional distribution channels?",
+      "answer": "black market"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ECONOMICS",
+      "statement": "What is the cost of borrowed money called?",
+      "answer": "interest rates"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ENVIRONMENT",
+      "statement": "What is the process by which atmospheric gases trap heat from the sun and increase the temperature of the Earth?",
+      "answer": "greenhouse effect"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ENVIRONMENT",
+      "statement": "What do we speak of when a volcano erupts?",
+      "answer": "eruption"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ENVIRONMENT",
+      "statement": "During major hurricanes, how fast is the wind?",
+      "answer": "300"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "ENVIRONMENT",
+      "statement": "What causes the hole in the ozone layer?",
+      "answer": "pollution"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "MINDFULNESS",
+      "statement": "What do you call the intentional attention paid to the present moment, without judgment?",
+      "answer": "mindfulness"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "MINDFULNESS",
+      "statement": "Which practice is to focus on a particular object or thought, in order to calm the mind and improve concentration?",
+      "answer": "meditation"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "MINDFULNESS",
+      "statement": "What can help reduce stress by allowing us to slow our breathing and calm our mind?",
+      "answer": "conscious breathing"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "MINDFULNESS",
+      "statement": "What mindfulness practice involves appreciating and giving thanks for the positive aspects of one\u0027s life, such as relationships, health, or accomplishments?",
+      "answer": "gratitude"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SCHOOL",
+      "statement": "What continuous method allows teachers to monitor students\u0027 progress throughout learning and adapt their teaching accordingly?",
+      "answer": "formative assessments"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SCHOOL",
+      "statement": "What is the largest country in the world?",
+      "answer": "Russia"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SCHOOL",
+      "statement": "What is the capital of the Netherlands?",
+      "answer": "Amsterdam"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SCHOOL",
+      "statement": "Who does color blindness most often affect?",
+      "answer": "men"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SOCIETY",
+      "statement": "What is the coexistence of different religions and traditions in a given society called?",
+      "answer": "cultural diversity"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SOCIETY",
+      "statement": "What is called the unequal treatment of an individual or group because of their race, gender, sexual orientation or other characteristics?",
+      "answer": "discrimination"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SOCIETY",
+      "statement": "What is the principle that women and men should have the same rights, the same chances and the same opportunities in all areas of life?",
+      "answer": "gender equality"
+    },
+    {
+      "author": "Thémis Charlier",
+      "category": "SOCIETY",
+      "statement": "What is the increase in population and economic activity in cities called?",
+      "answer": "urbanization"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ECONOMICS",
+      "statement": "What is the main goal of monetary policy?",
+      "answer": "stability"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the study of how individuals and societies allocate resources to satisfy their wants and needs?",
+      "answer": "economics"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the amount of money a company has left over after paying its expenses?",
+      "answer": "profit"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the total value of all assets owned by an individual or company, minus any liabilities?",
+      "answer": "net worth"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "CYBERSECURITY",
+      "statement": "What is a secret word or code used to authenticate a user\u0027s identity?",
+      "answer": "password"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "CYBERSECURITY",
+      "statement": "What is the malicious software that is designed to cause harm to a computer system?",
+      "answer": "malware"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "CYBERSECURITY",
+      "statement": "What is the practice of protecting computer systems from unauthorized access or attacks?",
+      "answer": "cybersecurity"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "CYBERSECURITY",
+      "statement": "What is the practice of creating multiple copies of data as a safeguard against data loss?",
+      "answer": "backup"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the amount of greenhouse gases emitted into the atmosphere as a result of human activities?",
+      "answer": "carbon footprint"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the process by which trees absorb carbon dioxide and release oxygen?",
+      "answer": "photosynthesis"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the practice of using natural resources in a way that preserves them for future generations?",
+      "answer": "sustainability"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the rise in global temperatures caused by the increase in greenhouse gases in the atmosphere?",
+      "answer": "global warming"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of focusing on one\u0027s breath to calm the mind and body?",
+      "answer": "meditation"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the mental and physical state of being fully engaged in the present moment?",
+      "answer": "flow"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "MINDFULNESS",
+      "statement": "What is the practice of paying attention to the present moment without judgment?",
+      "answer": "mindfulness"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the state of being aware of one\u0027s thoughts, feelings, and bodily sensations in the present moment?",
+      "answer": "consciousness"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SOCIETY",
+      "statement": "What is the term for the way in which people are organized into groups within a society?",
+      "answer": "social structure"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SOCIETY",
+      "statement": "What is the term for the set of beliefs, values, and customs that shape the way people live and interact in a society?",
+      "answer": "culture"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SOCIETY",
+      "statement": "What is the term for the practice of treating people differently based on their race, gender, or other characteristics?",
+      "answer": "discrimination"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SOCIETY",
+      "statement": "What is the term for the movement toward greater social, political, and economic equality for marginalized groups?",
+      "answer": "social justice"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SCHOOL",
+      "statement": "What is the term for the study of matter, energy, and their interactions?",
+      "answer": "physics"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SCHOOL",
+      "statement": "What is the term for the study of living organisms and their interactions with each other and their environment?",
+      "answer": "biology"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SCHOOL",
+      "statement": "What is the term for the branch of mathematics that deals with shapes, sizes, and positions of objects?",
+      "answer": "geometry"
+    },
+    {
+      "author": "Arnaud Joertz",
+      "category": "SCHOOL",
+      "statement": "What is the term for the study of the Earth\u0027s physical structure and processes?",
+      "answer": "geology"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "CYBERSECURITY",
+      "statement": "What do you call a set of rules or standards that govern how data is transmitted over the internet?",
+      "answer": "protocol"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name for a type of malware that encrypts a user\u0027s files and demands payment for the decryption key?",
+      "answer": "ransomware"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name for a type of malware that disguises itself as legitimate software in order to steal sensitive information?",
+      "answer": "trojan"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "CYBERSECURITY",
+      "statement": "What type of attack involves flooding a network or website with traffic in order to make it unavailable to users?",
+      "answer": "DDoS"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ECONOMICS",
+      "statement": "What is the term for a decentralized, digital currency that uses encryption techniques to verify and secure transactions?",
+      "answer": "cryptocurrency"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the amount of money a person or business has left over after paying all expenses?",
+      "answer": "profit"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the physical items that people produce and consume, such as food and clothing?",
+      "answer": "goods"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ECONOMICS",
+      "statement": "What do you call the financial benefit that someone receives for owning a business, investment or property?",
+      "answer": "return"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ENVIRONMENT",
+      "statement": "What technology is used to capture and store energy from wind to generate electricity?",
+      "answer": "wind turbines"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the release of gases like carbon dioxide into the atmosphere, which contributes to global warming?",
+      "answer": "carbon emissions"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name for the process of using materials from discarded products to create new products?",
+      "answer": "recycling"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "ENVIRONMENT",
+      "statement": "What do you call the gradual increase in the average temperature of the Earth\u0027s atmosphere and oceans?",
+      "answer": "global warming"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "MINDFULNESS",
+      "statement": "What do you call the practice of deliberately focusing on positive thoughts and emotions to improve well-being?",
+      "answer": "positive thinking"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "MINDFULNESS",
+      "statement": "What is the name for the state of mind that is characterized by calmness, focus, and contentment?",
+      "answer": "inner peace"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "MINDFULNESS",
+      "statement": "What is the name for the practice of actively cultivating positive emotions such as joy, compassion, and gratitude?",
+      "answer": "positive psychology"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "MINDFULNESS",
+      "statement": "What do you call the practice of intentionally focusing your attention on a specific object or image during meditation?",
+      "answer": "visualization"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SCHOOL",
+      "statement": "What is the name for a type of programming language that is designed to be easy for beginners to learn?",
+      "answer": "scratch"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SCHOOL",
+      "statement": "What is the term for the use of technology to facilitate remote learning and online education?",
+      "answer": "e-learning"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SCHOOL",
+      "statement": "What is the term for the practice of using games and puzzles to make learning more engaging and enjoyable?",
+      "answer": "gamification"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SCHOOL",
+      "statement": "What do you call a program of study in a particular subject or field?",
+      "answer": "curriculum"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SOCIETY",
+      "statement": "What is the name for the study of how people interact with each other and with their environment?",
+      "answer": "sociology"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SOCIETY",
+      "statement": "What do you call a group of people who share a common ancestry, culture, and history?",
+      "answer": "ethnicity"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SOCIETY",
+      "statement": "What do you call the system of government where power is held by a small group of people?",
+      "answer": "oligarchy"
+    },
+    {
+      "author": "Adrien Hubert",
+      "category": "SOCIETY",
+      "statement": "What is the name for the ability to understand and share the feelings of others?",
+      "answer": "empathy"
+    },
+    {
+      "author": "Battista",
+      "category": "CYBERSECURITY",
+      "statement": "Which term is used to refer to the address of a website ?",
+      "answer": "Domain"
+    },
+    {
+      "author": "Battista",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term for a technique that involves deciphering a message without knowing the encryption key ?",
+      "answer": "Cryptanalysis"
+    },
+    {
+      "author": "Battista",
+      "category": "CYBERSECURITY",
+      "statement": "How is a harmful program that duplicates itself by infecting other files or computers commonly referred to ?",
+      "answer": "Virus"
+    },
+    {
+      "author": "Battista",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name for the hacking method of inducing a user to disclose personal information by pretending to be a trustworthy entity?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Battista",
+      "category": "ECONOMICS",
+      "statement": "What is the word used to describe the act of spending money to purchase goods or services ?",
+      "answer": "Consumption"
+    },
+    {
+      "author": "Battista",
+      "category": "ECONOMICS",
+      "statement": "Which term refers to the rise in the prices of goods and services ?",
+      "answer": "Inflation"
+    },
+    {
+      "author": "Battista",
+      "category": "ECONOMICS",
+      "statement": "Who refers to the group of people who work for a company ?",
+      "answer": "Employees"
+    },
+    {
+      "author": "Battista",
+      "category": "ECONOMICS",
+      "statement": "By what name is the money collected by the government from citizens and businesses known ?",
+      "answer": "Taxes"
+    },
+    {
+      "author": "Battista",
+      "category": "ENVIRONMENT",
+      "statement": "What do we call the practice of planting trees to restore forests ?",
+      "answer": "Reforestation"
+    },
+    {
+      "author": "Battista",
+      "category": "ENVIRONMENT",
+      "statement": "What gas is needed to sustain life on Earth by absorbing some of the sun\u0027s radiation ?",
+      "answer": "Oxygen"
+    },
+    {
+      "author": "Battista",
+      "category": "ENVIRONMENT",
+      "statement": "What are the small particles of plastic that end up in the oceans and rivers called ?",
+      "answer": "Microplastics"
+    },
+    {
+      "author": "Battista",
+      "category": "ENVIRONMENT",
+      "statement": "What term describes the process of reusing materials that have already been used to make new products ?",
+      "answer": "Recycling"
+    },
+    {
+      "author": "Battista",
+      "category": "SCHOOL",
+      "statement": "What do we call the study of plants ?",
+      "answer": "Botany"
+    },
+    {
+      "author": "Battista",
+      "category": "SCHOOL",
+      "statement": "What do we call the study of the physical universe beyond Earth\u0027s atmosphere ?",
+      "answer": "Astronomy"
+    },
+    {
+      "author": "Battista",
+      "category": "SCHOOL",
+      "statement": "Which word refers to the fear of heights ?",
+      "answer": "Acrophobia"
+    },
+    {
+      "author": "Battista",
+      "category": "SCHOOL",
+      "statement": "Identify the largest ocean on Earth ?",
+      "answer": "Pacific"
+    },
+    {
+      "author": "Battista",
+      "category": "SOCIETY",
+      "statement": "Who is the head of state in the United Kingdom ?",
+      "answer": "Elizabeth"
+    },
+    {
+      "author": "Battista",
+      "category": "SOCIETY",
+      "statement": "Which currency is used in Japan ?",
+      "answer": "Yen"
+    },
+    {
+      "author": "Battista",
+      "category": "SOCIETY",
+      "statement": "What is the term for a person who studies societies and human behavior within them ?",
+      "answer": "Sociologist"
+    },
+    {
+      "author": "Battista",
+      "category": "SOCIETY",
+      "statement": "Could you tell me the name of the document that outlines the fundamental rights of citizens in the United States ?",
+      "answer": "Constitution"
+    },
+    {
+      "author": "Fontaine",
+      "category": "CYBERSECURITY",
+      "statement": "Which type of cyber attack block access to your computer until a sum of money is paid ?",
+      "answer": "ransomware"
+    },
+    {
+      "author": "Fontaine",
+      "category": "CYBERSECURITY",
+      "statement": "What is the practice of disguising a message to make it unreadable by unauthorized parties ?",
+      "answer": "Encryption"
+    },
+    {
+      "author": "Fontaine",
+      "category": "CYBERSECURITY",
+      "statement": "What is the most common cyber attack ?",
+      "answer": "malware"
+    },
+    {
+      "author": "Fontaine",
+      "category": "CYBERSECURITY",
+      "statement": "What is two-factor authentication in cybersecurity ?",
+      "answer": " 2FA"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the European Central Bank ?",
+      "answer": "ECB"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ECONOMICS",
+      "statement": "What economic model was the USSR based on ?",
+      "answer": "communism"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ECONOMICS",
+      "statement": "What is the poorest country in the world ?",
+      "answer": "Burundi"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ECONOMICS",
+      "statement": " What is the name of the main French stock index ?",
+      "answer": "CAC"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ENVIRONMENT",
+      "statement": "What is the largest cause of deforestation in the world ?",
+      "answer": "Agriculture"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ENVIRONMENT",
+      "statement": "What is the largest source of oxygen on earth ?",
+      "answer": "ocean "
+    },
+    {
+      "author": "Fontaine",
+      "category": "ENVIRONMENT",
+      "statement": "What do we call the collection of all living species present in a given ecosystem ?",
+      "answer": "Biodiversity"
+    },
+    {
+      "author": "Fontaine",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the process that converts waste into natural fertilizer ?",
+      "answer": "Composting"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SCHOOL",
+      "statement": "What is the subject that teaches the rules of language and spelling in French ?",
+      "answer": "Grammar"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SCHOOL",
+      "statement": "What is the name of the teaching method where the student works at their own pace and is regularly evaluated ?",
+      "answer": "Montessori"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SCHOOL",
+      "statement": "Which art movement was Claude Monet part of ?",
+      "answer": "impressionism"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SCHOOL",
+      "statement": "Who was the first king of France ?",
+      "answer": "Clovis"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SOCIETY",
+      "statement": "What is the name of the French president ?",
+      "answer": "Macron"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SOCIETY",
+      "statement": "What is the most spoken language on earth ?",
+      "answer": "Chinese"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SOCIETY",
+      "statement": "What is the name of the social movement that advocates for gender equality ?",
+      "answer": "Feminism"
+    },
+    {
+      "author": "Fontaine",
+      "category": "SOCIETY",
+      "statement": "What is the name of the economic system where the means of production are owned and controlled by the state ?",
+      "answer": "Socialism"
+    },
+    {
+      "author": "Criquillion",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name given to a malicious program that spreads by replicating itself through computers connected to a network ?",
+      "answer": "Worm"
+    },
+    {
+      "author": "Criquillion",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the type of attack that involves bombarding a server with requests to make it unavailable to legitimate users ?",
+      "answer": "DDoS"
+    },
+    {
+      "author": "Criquillion",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name given to the attack technique that involves using malicious software to take control of a computer remotely ?",
+      "answer": "RAT"
+    },
+    {
+      "author": "Criquillion",
+      "category": "CYBERSECURITY",
+      "statement": "What is the term used to describe a type of malware that is disguised as a legitimate program but can damage or control a computer system ?",
+      "answer": "Trojan"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ECONOMICS",
+      "statement": "What is the name given to the economic policy aimed at keeping inflation low and stable ? ",
+      "answer": "Monetarism"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ECONOMICS",
+      "statement": "What is the name given to the economic situation where inflation and unemployment are high ?",
+      "answer": "Stagflation"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ECONOMICS",
+      "statement": "When was the euro currency introduced in Belgium ?",
+      "answer": "2002"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ECONOMICS",
+      "statement": "What is the richest country in Europe in 2021 ?",
+      "answer": "Luxemburg"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the process that transforms light into electrical energy ?",
+      "answer": "Photovoltaic"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the gas responsible for the greenhouse effect that is produced by the digestion of ruminants and the decomposition of organic waste ?",
+      "answer": "Methane"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name given to the ozone layer located in the stratosphere which absorbs a large part of the sun\u0027s ultraviolet radiation ?",
+      "answer": "Ozone"
+    },
+    {
+      "author": "Criquillion",
+      "category": "ENVIRONMENT",
+      "statement": "What is the most widely used renewable energy source in the world ?",
+      "answer": "Hydroelectricity"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SCHOOL",
+      "statement": "Who wrote \"Les Misérables\" ?",
+      "answer": "Victor Hugo"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SCHOOL",
+      "statement": "What is the largest river in the world ?",
+      "answer": "Amazon"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SCHOOL",
+      "statement": "Who painted the \"Mona Lisa\" ?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SCHOOL",
+      "statement": "What is the largest desert in the world ?",
+      "answer": "Sahara"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SOCIETY",
+      "statement": "Who is the current King of Belgium ?",
+      "answer": "Philippe"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SOCIETY",
+      "statement": "What is the main language spoken in Belgium ?",
+      "answer": "French"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SOCIETY",
+      "statement": "What is the system of government in France ?",
+      "answer": "Republic"
+    },
+    {
+      "author": "Criquillion",
+      "category": "SOCIETY",
+      "statement": "What is the name of the current President of the United States ?",
+      "answer": "Biden"
+    },
+    {
+      "author": "Fourneau Bradley",
+      "category": "CYBERSECURITY",
+      "statement": "Which name do we give to software that collects your personal data without your consent ?",
+      "answer": "Spyware"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "CYBERSECURITY",
+      "statement": "What does the acronym \"VPN\" means ?",
+      "answer": "Virtual private network"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "CYBERSECURITY",
+      "statement": "What is the technique for encrypting data ? ",
+      "answer": "Cryptography"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "CYBERSECURITY",
+      "statement": "What does the acronym \"GDPR\" means ?",
+      "answer": "General Data Protection Regulation"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ECONOMICS",
+      "statement": "Which money is mainly used in Europe?",
+      "answer": "euro"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ECONOMICS",
+      "statement": "What is the acronym for the tax levied on the sale of goods and services ?",
+      "answer": "VAT"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ECONOMICS",
+      "statement": "What money is used in Japan ?",
+      "answer": "yen"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ECONOMICS",
+      "statement": "What does the acronym GDP stand for ?",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ENVIRONMENT",
+      "statement": "Which gas is the main cause of the greenhouse effect ?",
+      "answer": "CO2"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the largest tropical forest in the world ?",
+      "answer": "Amazonia"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the international agreement to reduce greenhouse gas emissions? ",
+      "answer": "paris agreement"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main element in the air ?",
+      "answer": "Azote"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "MINDFULNESS",
+      "statement": "How can mindfulness help with pain management ?",
+      "answer": "Acceptance"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "MINDFULNESS",
+      "statement": "Which religion practices meditation the most ?",
+      "answer": "Buddhism"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "MINDFULNESS",
+      "statement": "Where does the notion of mindfulness come from ?",
+      "answer": "India"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "MINDFULNESS",
+      "statement": "Meditation can help reduce the symptoms of which common mental health disorder ?",
+      "answer": "anxiety"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SCHOOL",
+      "statement": "How many school days are there in a week in Belgium?",
+      "answer": "5"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SCHOOL",
+      "statement": "What is the name of the most famous school in the world ?",
+      "answer": "Harvard"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SCHOOL",
+      "statement": "What do we get at the end of our studies ?",
+      "answer": "diploma"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SCHOOL",
+      "statement": "What is the name of the largest ocean on the planet Earth ?",
+      "answer": "Pacific"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SOCIETY",
+      "statement": "What is the last name of the president of the United States in 2020 ?",
+      "answer": "Trump"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SOCIETY",
+      "statement": "What is the most populated city in the world ?",
+      "answer": "Tokyo"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SOCIETY",
+      "statement": "What is the name of the largest desert in the world ?",
+      "answer": "Sahara"
+    },
+    {
+      "author": "Fourneau bradley",
+      "category": "SOCIETY",
+      "statement": "In what year was the European Union created ?",
+      "answer": "1993"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the message scams ?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "CYBERSECURITY",
+      "statement": "What is the most used password in the world ?",
+      "answer": "123456"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "CYBERSECURITY",
+      "statement": "Can we get a virus on our physical machine via a virtual machine ?",
+      "answer": "Yes"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the part of a network that identifies and blocks unwanted traffic?",
+      "answer": "firewall"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ECONOMICS",
+      "statement": "In wich year did Belgium\u0027s currency change?",
+      "answer": "2002"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ECONOMICS",
+      "statement": "Which currency is used in Russia",
+      "answer": "Russian rouble"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ECONOMICS",
+      "statement": "In what year did the first stock market crash in history take place ?",
+      "answer": "1637"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ECONOMICS",
+      "statement": "In what year did the biggest stock market crash in history take place ?",
+      "answer": "1929"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ENVIRONMENT",
+      "statement": "What is the process to transform light energy into chemical energy ?",
+      "answer": "Photosynthesis"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ENVIRONMENT",
+      "statement": "What is the most polluting country in the world ?",
+      "answer": "China"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ENVIRONMENT",
+      "statement": "Who is the most popular figure on ecology in Europe ?",
+      "answer": "Greta Thunberg"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "ENVIRONMENT",
+      "statement": "What is the least environmentally friendly energy source used in the world ?",
+      "answer": "Coal"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "MINDFULNESS",
+      "statement": "What is the practice used for mindfulness ?",
+      "answer": "Meditation"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "MINDFULNESS",
+      "statement": "Who developed mindfulness ?",
+      "answer": "Jon Kabat-Zinn"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "MINDFULNESS",
+      "statement": "What are the 2 side effects observed with a misdirected mindfulness practice ?",
+      "answer": "depersonalization and fragility"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "MINDFULNESS",
+      "statement": "How many new people come to full consciousness each year in the United States (in millions) ?",
+      "answer": "1"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SCHOOL",
+      "statement": "What is the acronym for the elementary school certificate in Belgium ?",
+      "answer": "ceb"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SCHOOL",
+      "statement": "What is the largest country in the world ?",
+      "answer": "Russia"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SCHOOL",
+      "statement": "What is the name of the smallest ocean on the planet Earth?",
+      "answer": "Arctic"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SOCIETY",
+      "statement": "What is the name of the first king of Belgium?",
+      "answer": "Léopold 1"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SOCIETY",
+      "statement": "Who was the first president of the United States of America?",
+      "answer": "George Washington"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SOCIETY",
+      "statement": "In what year did the French revolution begin ?",
+      "answer": "1789"
+    },
+    {
+      "author": "Pasinetti Nelson",
+      "category": "SOCIETY",
+      "statement": "In what year did the Russian revolution begin ?",
+      "answer": "1917"
+    },
+    {
+      "author": "Dumon",
+      "category": "SCHOOL",
+      "statement": "How many credits does it take to pass a Bachelor year in Belgium?",
+      "answer": "60"
+    },
+    {
+      "author": "Dumon",
+      "category": "SCHOOL",
+      "statement": "How many credits do you need to have a Bachelor in Belgium? ",
+      "answer": "180"
+    },
+    {
+      "author": "Dumon",
+      "category": "SCHOOL",
+      "statement": "In higher education before the 2022-2023 reform, how many credits were needed to pass to the second year in Belgium? ",
+      "answer": "45"
+    },
+    {
+      "author": "Dumon",
+      "category": "SCHOOL",
+      "statement": "In higher education in Belgium, a 12-hour course represents how many credits ?",
+      "answer": "1"
+    },
+    {
+      "author": "Dumon",
+      "category": "SOCIETY",
+      "statement": "From which SAGA does the following sentence come from: Luke I am your father? (Full name of the saga)",
+      "answer": "STARWARS"
+    },
+    {
+      "author": "Dumon",
+      "category": "SOCIETY",
+      "statement": "What is the name of the school in Harry Potter ?",
+      "answer": "Hogwarts"
+    },
+    {
+      "author": "Dumon",
+      "category": "SOCIETY",
+      "statement": "What is the first and last name of the famous secret agent whose number is 007?",
+      "answer": "James Bond"
+    },
+    {
+      "author": "Dumon",
+      "category": "SOCIETY",
+      "statement": "What is the first and last name of the famous British secret agent played by Daniel Craig, Roger Moore or Sean Connery?",
+      "answer": "James Bond"
+    },
+    {
+      "author": "Dumon",
+      "category": "CYBERSECURITY",
+      "statement": "Which site is more secure between HTTP and HTTPS?",
+      "answer": "HTTPS"
+    },
+    {
+      "author": "Dumon",
+      "category": "CYBERSECURITY",
+      "statement": "Which malicious program is designed to make people pay a ransom?",
+      "answer": "Ransomware"
+    },
+    {
+      "author": "Dumon",
+      "category": "CYBERSECURITY",
+      "statement": "Is a site that sends you your password when you press forget password secure (YES/NO)?",
+      "answer": "NO"
+    },
+    {
+      "author": "Dumon",
+      "category": "CYBERSECURITY",
+      "statement": "What is the meaning of the French word \"hameçonnage\"?",
+      "answer": "Phishing"
+    },
+    {
+      "author": "Dumon",
+      "category": "ENVIRONMENT",
+      "statement": "What is the majority of the earth\u0027s surface made of?",
+      "answer": "water"
+    },
+    {
+      "author": "Dumon",
+      "category": "ENVIRONMENT",
+      "statement": "By what process do plants produce oxygen?",
+      "answer": "Photosynthesis"
+    },
+    {
+      "author": "Dumon",
+      "category": "ENVIRONMENT",
+      "statement": "What gas do plants capture (molecules)?",
+      "answer": "CO2"
+    },
+    {
+      "author": "Dumon",
+      "category": "ENVIRONMENT",
+      "statement": "Which gas is produced by plants (name)?",
+      "answer": "Oxygen"
+    },
+    {
+      "author": "Dumon",
+      "category": "ECONOMICS",
+      "statement": "What term is generally used to describe the rise in prices and the fall in value of money?",
+      "answer": "Inflation"
+    },
+    {
+      "author": "Dumon",
+      "category": "ECONOMICS",
+      "statement": "What is the US currency without the country name?",
+      "answer": "dollars"
+    },
+    {
+      "author": "Dumon",
+      "category": "ECONOMICS",
+      "statement": "What is the currency of the UK?",
+      "answer": "Pound"
+    },
+    {
+      "author": "Dumon",
+      "category": "ECONOMICS",
+      "statement": "What usually happens after an economic crisis?",
+      "answer": "Recession"
+    },
+    {
+      "author": "Dumon",
+      "category": "MINDFULNESS",
+      "statement": "What does positive thinking allow us to see?",
+      "answer": "The positive side of things"
+    },
+    {
+      "author": "Dumon",
+      "category": "MINDFULNESS",
+      "statement": "What philosophical movement does mindfulness come from? ",
+      "answer": "Buddhism"
+    },
+    {
+      "author": "Dumon",
+      "category": "MINDFULNESS",
+      "statement": "What is the name of the state that aims to reduce stress?",
+      "answer": "Mindfulness"
+    },
+    {
+      "author": "Dumon",
+      "category": "MINDFULNESS",
+      "statement": "What is a term for an attitude of watchful presence?",
+      "answer": "Mindfulness"
+    },
+    {
+      "author": "Louis",
+      "category": "CYBERSECURITY",
+      "statement": "How many characters does a password requires to be a great password?",
+      "answer": "12"
+    },
+    {
+      "author": "Louis",
+      "category": "CYBERSECURITY",
+      "statement": "What does VPN stand for?",
+      "answer": "Virtual private network"
+    },
+    {
+      "author": "Louis",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the cyber-attack that is used to flood a target with traffic?",
+      "answer": "DDOS"
+    },
+    {
+      "author": "Louis",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the process of converting data into a coded language to prevent unauthorized access?",
+      "answer": "Encryption"
+    },
+    {
+      "author": "Louis",
+      "category": "MINDFULNESS",
+      "statement": "What is the practice that can help cultivate mindfulness?",
+      "answer": "Meditation"
+    },
+    {
+      "author": "Louis",
+      "category": "MINDFULNESS",
+      "statement": "What can mindfulness reduce?",
+      "answer": "Stress"
+    },
+    {
+      "author": "Louis",
+      "category": "MINDFULNESS",
+      "statement": "How many minutes a day at least do you need to practice mindfulness?",
+      "answer": "3"
+    },
+    {
+      "author": "Louis",
+      "category": "MINDFULNESS",
+      "statement": "What does mindfulness focus on?",
+      "answer": "Present time"
+    },
+    {
+      "author": "Louis",
+      "category": "SOCIETY",
+      "statement": "What is the name of the largest social media in the world?",
+      "answer": "Facebook"
+    },
+    {
+      "author": "Louis",
+      "category": "SOCIETY",
+      "statement": "What is the name of the movement that advocates for women\u0027s rights and gender equality?",
+      "answer": "Feminism"
+    },
+    {
+      "author": "Louis",
+      "category": "SOCIETY",
+      "statement": "What is the term used to describe the belief that all people should have equal rights and opportunities?",
+      "answer": "Equality"
+    },
+    {
+      "author": "Louis",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the percentage of the labor force that is unemployed and actively seeking employment?",
+      "answer": "Unemployment rate"
+    },
+    {
+      "author": "Louis",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the rate at which the general level of prices for goods and services is rising and subsequently purchasing power is falling?",
+      "answer": "Inflation"
+    },
+    {
+      "author": "Louis",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the theory that emphasizes the importance of free markets and minimal government intervention in the economy?",
+      "answer": "Capitalism"
+    },
+    {
+      "author": "Louis",
+      "category": "SCHOOL",
+      "statement": "Who made school compulsory and free for all children in France?",
+      "answer": "Charles the Great"
+    },
+    {
+      "author": "Louis",
+      "category": "SCHOOL",
+      "statement": "What is the study of living organisms?",
+      "answer": "Biology"
+    },
+    {
+      "author": "Louis",
+      "category": "SCHOOL",
+      "statement": "What is the process of formally teaching knowledge and skills called?",
+      "answer": "Education"
+    },
+    {
+      "author": "Louis",
+      "category": "SCHOOL",
+      "statement": "From which era do the oldest schools date?",
+      "answer": "Antiquity"
+    },
+    {
+      "author": "Louis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the greatest oxygen producer in the world ?",
+      "answer": "Ocean"
+    },
+    {
+      "author": "Louis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the main cause of deforestation?",
+      "answer": "Agricultural expansion"
+    },
+    {
+      "author": "Louis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the process during which water evaporates from plants?",
+      "answer": "Evapotranspiration"
+    },
+    {
+      "author": "Louis",
+      "category": "ENVIRONMENT",
+      "statement": "What is the most polluting country in the world?",
+      "answer": "China"
+    },
+    {
+      "author": "Romain",
+      "category": "CYBERSECURITY",
+      "statement": "Wich software can be installed to protect a computer from malware?",
+      "answer": "Antivirus"
+    },
+    {
+      "author": "Romain",
+      "category": "CYBERSECURITY",
+      "statement": "How do you refer to the process of identifying and addressing vulnerabilities in a system?",
+      "answer": "Patching"
+    },
+    {
+      "author": "Romain",
+      "category": "CYBERSECURITY",
+      "statement": "What is a common type of cyber-attack that involves encrypting data and demanding payment to unlock it?",
+      "answer": "Ransomware"
+    },
+    {
+      "author": "Romain",
+      "category": "CYBERSECURITY",
+      "statement": "Why do many online systems use multi-factor authentification?",
+      "answer": "Security"
+    },
+    {
+      "author": "Romain",
+      "category": "MINDFULNESS",
+      "statement": "How do you refer to the act of intentionally directing your attention to a particular object or sensation?",
+      "answer": "Concentration"
+    },
+    {
+      "author": "Romain",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of intentionally focusing on the positive aspects of your life rather than dwelling on the negative?",
+      "answer": "Positive thinking"
+    },
+    {
+      "author": "Romain",
+      "category": "MINDFULNESS",
+      "statement": "What is the practice of focusing on your breath to quiet the mind called?",
+      "answer": "Meditation"
+    },
+    {
+      "author": "Romain",
+      "category": "MINDFULNESS",
+      "statement": "How would you describe the act of intentionally focusing on your breath to calm the mind nad body?",
+      "answer": "Breathing exercise"
+    },
+    {
+      "author": "Romain",
+      "category": "SOCIETY",
+      "statement": "Wich therm is used to refer to the process of influencing the attitudes, beliefs and behaviors of a group of people?",
+      "answer": "Socialization"
+    },
+    {
+      "author": "Romain",
+      "category": "SOCIETY",
+      "statement": "How do you describe the process of working together toward a common goal on purpose?",
+      "answer": "Collaboration"
+    },
+    {
+      "author": "Romain",
+      "category": "SOCIETY",
+      "statement": "What is the term for the process of recognizing and respectingthe rights and dignity of all individuals?",
+      "answer": "Human rights"
+    },
+    {
+      "author": "Romain",
+      "category": "SOCIETY",
+      "statement": "Which term is used to describe the set of laws and regulations that govern a society?",
+      "answer": "Legal system"
+    },
+    {
+      "author": "Romain",
+      "category": "ECONOMICS",
+      "statement": "In which economic system are businesses privately owned and operated instead of being run by the gouvernment?",
+      "answer": "Capitalism"
+    },
+    {
+      "author": "Romain",
+      "category": "ECONOMICS",
+      "statement": "How do you refer to the difference between a country\u0027s import and exports of goods and services?",
+      "answer": "Trade balance"
+    },
+    {
+      "author": "Romain",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the difference between a country\u0027s total income and total expenditure?",
+      "answer": "National savings"
+    },
+    {
+      "author": "Romain",
+      "category": "ECONOMICS",
+      "statement": "What is the term for the measure of the average change in prices over time?",
+      "answer": "Inflation rate"
+    },
+    {
+      "author": "Romain",
+      "category": "SCHOOL",
+      "statement": "What is the term for the person who teaches stundets in classroom?",
+      "answer": "Teacher"
+    },
+    {
+      "author": "Romain",
+      "category": "SCHOOL",
+      "statement": "What is the term for the period during wich students are not attending school, such as holidays or summer break?",
+      "answer": "Vacation"
+    },
+    {
+      "author": "Romain",
+      "category": "SCHOOL",
+      "statement": "What is the term of process ob obtaining a degree or diploma after completing a course or study?",
+      "answer": "Graduation"
+    },
+    {
+      "author": "Romain",
+      "category": "SCHOOL",
+      "statement": "What is the term for the period during which a student attends a particular class or course?",
+      "answer": "Semester"
+    },
+    {
+      "author": "Romain",
+      "category": "ENVIRONMENT",
+      "statement": "How do you describe the process of turning waste into reusable material?",
+      "answer": "Recycling"
+    },
+    {
+      "author": "Romain",
+      "category": "ENVIRONMENT",
+      "statement": "How do you describe the act of intentionally destroying forests to clear land for other purposes?",
+      "answer": "Deforestation"
+    },
+    {
+      "author": "Romain",
+      "category": "ENVIRONMENT",
+      "statement": "How do you refer to the act of intentionally releasing harmful substances into the environment?",
+      "answer": "Pollution"
+    },
+    {
+      "author": "Romain",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the gradual increase in the ErathWhat is the term of?",
+      "answer": "China"
+    },
+    {
+      "author": "Dany",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the scam method that consists of asking you for personal information by email?",
+      "answer": "Fishing"
+    },
+    {
+      "author": "Dany",
+      "category": "ECONOMICS",
+      "statement": "In which political regime does the state intervene the most? communism or capitalism?",
+      "answer": "Communism"
+    },
+    {
+      "author": "Dany",
+      "category": "MINDFULNESS",
+      "statement": "What practice/religion can mindfulness be linked to?",
+      "answer": "Buddhism"
+    },
+    {
+      "author": "Dany",
+      "category": "SCHOOL",
+      "statement": "What is the name of the book containing a set of geographical maps?",
+      "answer": "Atlas"
+    },
+    {
+      "author": "Dany",
+      "category": "SOCIETY",
+      "statement": "In France, what name is forbidden for a pig?",
+      "answer": "Napoleon"
+    },
+    {
+      "author": "Dany",
+      "category": "CYBERSECURITY",
+      "statement": "A public wifi network is as secure as a personal wifi network. True or false?",
+      "answer": "False"
+    },
+    {
+      "author": "Dany",
+      "category": "ECONOMICS",
+      "statement": "Which year did the Wall Street economic crash take place?",
+      "answer": "1929"
+    },
+    {
+      "author": "Dany",
+      "category": "ENVIRONMENT",
+      "statement": "Which of methane and CO2 remains in the atmosphere longer?",
+      "answer": "CO2"
+    },
+    {
+      "author": "Dany",
+      "category": "MINDFULNESS",
+      "statement": "Having a good nap is like practicing mindfulness .True or false ?",
+      "answer": "False"
+    },
+    {
+      "author": "Dany",
+      "category": "SCHOOL",
+      "statement": "The satellites Callisto, Europa, Io and Ganymede are in orbit around which planet?",
+      "answer": "Jupiter"
+    },
+    {
+      "author": "Dany",
+      "category": "SOCIETY",
+      "statement": "Who painted \u0027The Scream\u0027?",
+      "answer": "Edvard Munch"
+    },
+    {
+      "author": "Dany",
+      "category": "CYBERSECURITY",
+      "statement": "What does the abbreviation VPN stand for?",
+      "answer": "Virtual Private Network"
+    },
+    {
+      "author": "Dany",
+      "category": "ECONOMICS",
+      "statement": "Who is the author of \u0027Invisible Hand\u0027?",
+      "answer": "Adam Smith"
+    },
+    {
+      "author": "Dany",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the layer protecting the planet from the sun\u0027s rays and which is destroyed by pollution?",
+      "answer": "The ozone layer"
+    },
+    {
+      "author": "Dany",
+      "category": "MINDFULNESS",
+      "statement": "Where does the history and development of mindfulness come from?",
+      "answer": "United States"
+    },
+    {
+      "author": "Dany",
+      "category": "SCHOOL",
+      "statement": "How many years did the Hundred Years War last?",
+      "answer": "116"
+    },
+    {
+      "author": "Dany",
+      "category": "SOCIETY",
+      "statement": "Since which year have women had the right to vote in Belgium?",
+      "answer": "1948"
+    },
+    {
+      "author": "Dany",
+      "category": "CYBERSECURITY",
+      "statement": "Which of these passwords is the most effective, BlueWhale44 or A$hC0D3\u0026@ ?",
+      "answer": "A$hC0D3\u0026@"
+    },
+    {
+      "author": "Dany",
+      "category": "ECONOMICS",
+      "statement": "When was the World Bank founded?",
+      "answer": "1944"
+    },
+    {
+      "author": "Dany",
+      "category": "ENVIRONMENT",
+      "statement": "How much paper is used for advertisements placed in our mailboxes in a year ?(in kilos per household)",
+      "answer": "40"
+    },
+    {
+      "author": "Dany",
+      "category": "MINDFULNESS",
+      "statement": "Mindfulness is a form of meditation. True or false ?",
+      "answer": "True"
+    },
+    {
+      "author": "Dany",
+      "category": "SCHOOL",
+      "statement": "Who was the first Roman emperor?",
+      "answer": "Auguste"
+    },
+    {
+      "author": "Dany",
+      "category": "SOCIETY",
+      "statement": "What is the name of the political regime where the people are sovereign?",
+      "answer": "Democracy"
+    },
+    {
+      "author": "Theo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the security measure that authenticates a user using two different methods?",
+      "answer": "Two-factor authentication"
+    },
+    {
+      "author": "Theo",
+      "category": "CYBERSECURITY",
+      "statement": "What type of cyberattack is used to encrypt files on a computer and demand a ransom to decrypt them?",
+      "answer": "Ransomware"
+    },
+    {
+      "author": "Theo",
+      "category": "CYBERSECURITY",
+      "statement": "What type of code injection attack involves executing code remotely on a remote server?",
+      "answer": "SQL Injection"
+    },
+    {
+      "author": "Theo",
+      "category": "CYBERSECURITY",
+      "statement": "What is the name of the practice of collecting personal information from online sources to target advertisements?",
+      "answer": "Ad Tracking"
+    },
+    {
+      "author": "Theo",
+      "category": "ECONOMICS",
+      "statement": "What is the economic model based on free enterprise and market competition?",
+      "answer": "Capitalism"
+    },
+    {
+      "author": "Theo",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the economic concept that describes the amount of goods and services a country can produce with a given amount of labor and capital?",
+      "answer": "Productivity"
+    },
+    {
+      "author": "Theo",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the supervisory body for the central banks of the member countries of the European Union?",
+      "answer": "European Central Bank"
+    },
+    {
+      "author": "Theo",
+      "category": "ECONOMICS",
+      "statement": "What is the name of the measure of national income that includes foreign income?",
+      "answer": "Gross National Income"
+    },
+    {
+      "author": "Theo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the variety of life on Earth, including the diversity of species, ecosystems, and genetic variation within species?",
+      "answer": "Biodiversity"
+    },
+    {
+      "author": "Theo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the name of the process by which forests are cleared for other uses, such as agriculture or development?",
+      "answer": "Deforestation"
+    },
+    {
+      "author": "Theo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the process by which the Earth\u0027s atmosphere traps heat and warms the planet\u0027s surface?",
+      "answer": "The greenhouse effect"
+    },
+    {
+      "author": "Theo",
+      "category": "ENVIRONMENT",
+      "statement": "What is the term for the study of the natural world and the relationships between organisms and their environment?",
+      "answer": "Ecology"
+    },
+    {
+      "author": "Theo",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the ability to direct your attention and focus on a task without distraction?",
+      "answer": "Concentration"
+    },
+    {
+      "author": "Theo",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the ability to recognize and manage your own thoughts and emotions while working?",
+      "answer": "Emotional intelligence"
+    },
+    {
+      "author": "Theo",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the ability to remain calm and focused under pressure or in stressful situations?",
+      "answer": "Resilience"
+    },
+    {
+      "author": "Theo",
+      "category": "MINDFULNESS",
+      "statement": "What is the term for the practice of taking a few deep breaths to calm your mind and reduce stress?",
+      "answer": "Deep breathing"
+    },
+    {
+      "author": "Theo",
+      "category": "SCHOOL",
+      "statement": "What is the term for the period of academic study in which students attend classes and complete coursework?",
+      "answer": "Semester"
+    },
+    {
+      "author": "Theo",
+      "category": "SCHOOL",
+      "statement": "What is the term for the institution of higher education that students attend after completing secondary school?",
+      "answer": "University"
+    },
+    {
+      "author": "Theo",
+      "category": "SCHOOL",
+      "statement": "What is the term for a document that outlines the courses a student will take during a specific academic term or year?",
+      "answer": "Course schedule"
+    },
+    {
+      "author": "Theo",
+      "category": "SCHOOL",
+      "statement": "What is the name of one of the standardized test that assesses a student\u0027s proficiency in the English language?",
+      "answer": "Test of English as a Foreign Language"
+    },
+    {
+      "author": "Theo",
+      "category": "SOCIETY",
+      "statement": "What is the term for a belief in the importance of individual freedom and self-reliance, often associated with the political ideology of liberalism?",
+      "answer": "Individualism"
+    },
+    {
+      "author": "Theo",
+      "category": "SOCIETY",
+      "statement": "What is the term for a system of government in which the people hold the power and make decisions through direct or representative means?",
+      "answer": "Democracy"
+    },
+    {
+      "author": "Theo",
+      "category": "SOCIETY",
+      "statement": "What is the term for the unequal distribution of wealth, resources, and opportunities among different groups of people?",
+      "answer": "Social inequality"
+    },
+    {
+      "author": "Theo",
+      "category": "SOCIETY",
+      "statement": "What is the term for the process by which people learn and adopt the norms, values, and behaviors of their society?",
+      "answer": "Socialization"
+    }
+  ]
+}
